@@ -1,1000 +1,1001 @@
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (1, 370, 867, 849, '2000-04-16 19:51:04.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (2, 671, 313, 151, '2015-09-19 12:28:51.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (3, 533, 855, 609, '2016-01-03 03:28:17.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (4, 381, 216, 255, '2014-10-17 16:43:40.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (5, 786, 684, 636, '2005-07-12 11:08:42.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (6, 425, 67, 624, '2016-02-20 13:51:48.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (7, 601, 596, 951, '2007-01-31 10:01:37.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (8, 799, 82, 947, '2002-09-15 20:06:35.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (9, 703, 783, 159, '2019-01-17 20:42:02.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (10, 358, 958, 236, '2000-05-11 20:37:00.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (11, 113, 871, 10, '2018-05-14 09:52:22.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (12, 280, 546, 269, '2009-05-24 18:41:48.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (13, 37, 600, 826, '2019-02-24 10:46:38.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (14, 682, 979, 629, '2018-08-13 08:08:22.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (15, 567, 219, 826, '2009-01-16 05:47:56.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (16, 777, 388, 135, '2002-06-22 18:37:15.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (17, 473, 152, 604, '2020-04-30 17:50:52.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (18, 853, 996, 566, '2003-08-14 22:45:14.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (19, 193, 873, 407, '2010-06-20 18:06:06.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (20, 426, 463, 420, '2014-11-01 06:07:23.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (21, 679, 125, 527, '2014-12-25 15:42:36.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (22, 48, 24, 905, '2009-01-08 05:24:31.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (23, 715, 69, 749, '2002-03-26 04:42:14.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (24, 714, 915, 514, '2003-09-22 13:31:45.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (25, 116, 316, 335, '2006-11-06 10:41:43.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (26, 754, 875, 793, '2020-09-20 09:41:15.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (27, 136, 506, 564, '2011-04-01 03:41:28.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (28, 479, 923, 528, '2015-10-02 05:12:03.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (29, 32, 571, 928, '2014-12-22 08:05:04.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (30, 542, 137, 512, '2009-03-17 14:35:57.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (31, 729, 424, 457, '2020-08-02 22:47:15.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (32, 559, 502, 224, '2016-08-30 00:05:05.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (33, 592, 74, 604, '2011-06-18 18:59:30.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (34, 564, 710, 899, '2017-07-18 23:32:41.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (35, 693, 975, 794, '2017-08-20 05:12:42.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (36, 169, 211, 421, '2004-03-20 11:36:35.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (37, 797, 38, 506, '2020-07-04 18:04:13.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (38, 187, 903, 918, '2000-12-09 05:58:00.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (39, 358, 60, 333, '2000-01-09 04:27:52.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (40, 494, 130, 194, '2010-01-25 14:46:47.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (41, 434, 818, 365, '2000-03-25 19:27:04.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (42, 560, 260, 970, '2012-12-30 11:52:37.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (43, 296, 580, 237, '2010-08-12 18:34:29.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (44, 34, 91, 596, '2021-05-26 09:43:11.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (45, 495, 490, 129, '2019-07-04 04:03:18.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (46, 460, 84, 339, '2016-08-20 11:41:46.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (47, 857, 660, 196, '2018-01-23 12:05:26.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (48, 673, 86, 292, '2019-07-01 02:28:52.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (49, 812, 328, 936, '2021-06-25 08:05:17.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (50, 845, 544, 452, '2000-12-27 12:34:16.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (51, 393, 180, 295, '2018-05-31 02:42:15.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (52, 977, 79, 353, '2018-03-16 10:47:39.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (53, 148, 506, 793, '2010-03-25 05:29:16.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (54, 389, 296, 74, '2003-10-02 05:55:55.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (55, 346, 878, 355, '2007-05-27 04:48:52.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (56, 998, 578, 216, '2014-01-19 23:54:49.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (57, 643, 56, 831, '2014-11-30 04:04:20.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (58, 415, 948, 156, '2015-10-13 05:39:01.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (59, 768, 738, 308, '2010-07-21 19:39:51.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (60, 855, 737, 286, '2004-05-18 04:48:51.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (61, 133, 550, 488, '2001-11-30 02:47:38.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (62, 805, 557, 725, '2007-05-26 09:36:55.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (63, 245, 84, 332, '2011-06-15 15:12:30.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (64, 362, 723, 691, '2016-06-23 20:51:45.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (65, 837, 816, 269, '2010-07-13 07:39:19.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (66, 981, 147, 412, '2013-03-03 04:08:19.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (67, 776, 448, 11, '2016-08-13 08:51:31.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (68, 102, 339, 643, '2005-08-10 07:56:17.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (69, 238, 663, 784, '2008-01-09 15:58:06.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (70, 468, 674, 315, '2004-07-06 09:19:07.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (71, 65, 378, 409, '2005-05-10 12:12:09.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (72, 854, 597, 304, '2019-05-03 21:32:27.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (73, 206, 54, 39, '2016-04-03 07:16:38.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (74, 249, 473, 466, '2009-01-25 03:57:40.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (75, 359, 115, 627, '2019-01-01 02:23:13.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (76, 50, 112, 242, '2020-05-13 20:57:24.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (77, 759, 760, 927, '2019-05-18 03:05:02.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (78, 260, 764, 442, '2007-09-23 01:06:35.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (79, 567, 538, 611, '2003-01-21 01:25:53.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (80, 417, 580, 217, '2010-10-18 19:44:10.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (81, 336, 529, 620, '2017-03-23 14:09:16.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (82, 772, 86, 713, '2020-08-31 02:51:05.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (83, 87, 651, 803, '2010-07-29 18:26:26.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (84, 529, 856, 360, '2008-05-20 02:43:58.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (85, 447, 377, 239, '2003-10-07 23:15:16.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (86, 736, 956, 69, '2000-03-02 07:32:34.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (87, 967, 587, 389, '2010-01-11 23:55:56.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (88, 724, 205, 827, '2018-10-20 01:24:39.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (89, 346, 34, 821, '2014-04-08 05:42:31.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (90, 949, 434, 132, '2018-11-09 01:37:47.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (91, 909, 709, 480, '2005-10-12 05:22:49.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (92, 548, 501, 215, '2005-12-09 12:19:40.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (93, 113, 780, 475, '2002-01-24 03:12:52.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (94, 270, 38, 706, '2002-07-23 07:31:12.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (95, 65, 578, 765, '2001-12-05 18:22:29.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (96, 510, 861, 789, '2012-07-13 13:57:50.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (97, 425, 228, 746, '2013-11-27 21:50:46.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (98, 903, 554, 618, '2013-11-29 00:27:42.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (99, 237, 764, 103, '2014-07-28 18:14:01.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (100, 421, 993, 677, '2015-09-03 13:56:03.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (101, 570, 219, 174, '2019-01-26 05:25:38.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (102, 803, 889, 280, '2010-08-04 20:33:26.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (103, 890, 218, 180, '2017-06-23 09:59:22.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (104, 377, 232, 228, '2003-05-27 02:22:40.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (105, 248, 571, 911, '2005-11-18 10:51:18.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (106, 727, 987, 31, '2016-07-29 01:03:07.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (107, 470, 908, 424, '2008-11-21 18:30:21.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (108, 803, 520, 518, '2008-05-10 20:54:41.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (109, 114, 360, 796, '2001-02-18 04:19:58.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (110, 815, 882, 875, '2007-03-23 18:15:48.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (111, 615, 759, 425, '2006-03-16 15:47:59.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (112, 39, 518, 844, '2018-02-13 12:53:44.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (113, 226, 158, 97, '2017-03-17 02:05:13.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (114, 108, 498, 225, '2009-11-11 05:55:24.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (115, 390, 964, 97, '2004-11-18 02:29:57.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (116, 789, 481, 420, '2017-04-02 11:51:17.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (117, 722, 396, 118, '2010-06-06 01:46:05.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (118, 308, 106, 640, '2012-11-19 02:52:33.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (119, 952, 345, 968, '2004-07-21 02:30:06.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (120, 847, 669, 173, '2010-04-23 15:30:49.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (121, 247, 828, 66, '2007-10-06 04:40:31.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (122, 378, 972, 322, '2006-07-14 22:56:34.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (123, 155, 612, 91, '2014-02-06 00:41:59.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (124, 871, 941, 417, '2001-12-17 09:32:13.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (125, 686, 858, 346, '2010-12-08 18:12:06.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (126, 399, 36, 470, '2008-11-17 18:57:03.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (127, 879, 234, 278, '2007-04-16 22:31:08.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (128, 645, 828, 21, '2017-08-31 20:03:25.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (129, 434, 388, 137, '2010-03-31 04:15:10.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (130, 351, 508, 119, '2005-04-12 21:34:17.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (131, 818, 164, 967, '2007-07-07 19:50:06.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (132, 152, 771, 350, '2011-04-24 03:06:18.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (133, 986, 200, 823, '2009-05-31 21:45:26.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (134, 395, 368, 385, '2011-11-02 13:00:00.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (135, 129, 595, 446, '2002-12-30 23:46:09.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (136, 846, 910, 330, '2001-10-09 03:09:13.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (137, 642, 981, 150, '2006-12-16 21:54:31.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (138, 114, 244, 793, '2015-10-11 08:27:13.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (139, 208, 646, 335, '2011-12-01 06:09:03.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (140, 56, 104, 294, '2008-10-09 03:22:00.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (141, 744, 145, 88, '2010-08-21 03:19:45.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (142, 396, 251, 575, '2003-05-13 01:59:53.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (143, 720, 581, 316, '2004-11-06 15:57:13.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (144, 14, 266, 640, '2002-09-26 15:18:06.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (145, 705, 728, 349, '2010-07-25 07:18:47.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (146, 604, 322, 867, '2003-06-08 23:27:47.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (147, 207, 254, 164, '2017-08-22 17:01:55.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (148, 792, 315, 889, '2002-08-07 13:28:27.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (149, 185, 687, 417, '2019-06-03 18:07:52.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (150, 825, 696, 571, '2016-08-14 08:30:40.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (151, 418, 171, 216, '2008-01-24 01:52:42.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (152, 860, 123, 747, '2004-08-05 10:20:09.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (153, 851, 615, 597, '2003-09-15 13:31:10.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (154, 17, 306, 386, '2004-04-15 13:37:50.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (155, 763, 887, 611, '2016-04-27 03:32:16.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (156, 5, 834, 966, '2014-12-20 05:57:57.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (157, 687, 126, 164, '2010-12-15 17:06:13.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (158, 771, 875, 650, '2015-07-04 01:42:27.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (159, 951, 656, 66, '2012-05-24 05:37:00.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (160, 948, 777, 927, '2019-05-06 19:41:49.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (161, 481, 275, 780, '2001-02-09 02:53:28.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (162, 590, 743, 752, '2007-08-01 01:08:26.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (163, 797, 871, 679, '2016-09-26 19:08:34.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (164, 189, 694, 391, '2018-10-27 20:41:11.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (165, 827, 124, 436, '2002-03-18 14:59:46.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (166, 683, 989, 370, '2011-09-09 07:35:14.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (167, 178, 293, 130, '2011-07-06 15:49:52.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (168, 180, 325, 740, '2004-06-08 23:17:51.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (169, 667, 696, 926, '2011-09-08 11:36:37.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (170, 992, 844, 66, '2018-04-08 15:11:41.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (171, 73, 363, 100, '2007-11-20 11:03:39.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (172, 193, 369, 916, '2012-02-11 07:53:41.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (173, 859, 345, 943, '2004-10-17 03:15:55.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (174, 700, 969, 60, '2009-07-18 01:32:03.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (175, 660, 724, 67, '2009-05-31 00:05:50.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (176, 478, 119, 713, '2002-02-23 14:42:04.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (177, 129, 345, 753, '2016-08-03 05:28:24.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (178, 55, 771, 198, '2003-10-09 04:23:09.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (179, 434, 483, 657, '2000-03-27 08:34:59.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (180, 645, 890, 224, '2016-08-07 10:19:38.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (181, 209, 582, 820, '2020-06-06 11:28:56.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (182, 530, 228, 303, '2016-05-09 17:46:36.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (183, 413, 80, 334, '2007-12-15 19:40:57.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (184, 562, 606, 247, '2012-05-10 17:24:48.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (185, 953, 849, 579, '2017-12-01 06:04:39.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (186, 364, 197, 967, '2008-05-18 05:30:30.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (187, 282, 182, 167, '2017-09-22 07:47:47.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (188, 508, 249, 178, '2017-07-08 23:00:36.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (189, 825, 852, 33, '2008-04-14 03:29:46.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (190, 745, 400, 876, '2018-05-08 19:43:40.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (191, 488, 460, 273, '2005-07-26 13:07:42.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (192, 671, 856, 276, '2011-04-27 16:29:25.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (193, 290, 591, 960, '2000-01-19 19:43:43.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (194, 165, 109, 696, '2017-03-02 08:13:28.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (195, 876, 872, 855, '2005-03-19 12:25:20.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (196, 769, 441, 737, '2020-12-27 06:52:36.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (197, 331, 637, 141, '2021-02-10 10:29:29.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (198, 968, 283, 690, '2008-10-26 14:52:35.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (199, 498, 74, 85, '2004-01-16 00:22:54.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (200, 712, 430, 338, '2006-07-06 17:45:36.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (201, 755, 320, 809, '2018-06-22 00:15:13.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (202, 297, 812, 356, '2009-09-28 03:29:59.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (203, 866, 44, 745, '2016-12-09 04:12:20.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (204, 36, 757, 219, '2015-02-13 07:12:03.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (205, 864, 715, 290, '2018-06-26 22:59:24.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (206, 600, 727, 555, '2015-08-21 22:32:21.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (207, 934, 751, 611, '2001-06-12 19:18:12.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (208, 419, 634, 459, '2008-08-01 01:48:56.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (209, 230, 628, 871, '2012-03-26 12:07:21.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (210, 969, 794, 385, '2014-06-02 12:43:03.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (211, 946, 265, 152, '2000-08-08 22:01:17.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (212, 124, 785, 810, '2001-03-30 18:31:41.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (213, 261, 398, 968, '2002-10-15 21:08:47.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (214, 485, 186, 842, '2021-01-12 06:18:31.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (215, 966, 644, 226, '2001-10-31 23:13:05.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (216, 411, 473, 351, '2015-07-09 21:30:08.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (217, 207, 498, 418, '2001-07-30 18:22:28.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (218, 829, 29, 906, '2010-12-19 20:52:44.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (219, 775, 993, 423, '2008-07-03 13:16:27.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (220, 656, 954, 707, '2020-04-27 13:51:00.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (221, 861, 855, 938, '2009-02-25 05:43:36.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (222, 500, 63, 228, '2004-12-31 17:28:06.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (223, 121, 63, 194, '2007-11-13 22:50:12.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (224, 754, 365, 789, '2006-09-24 02:37:43.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (225, 485, 757, 988, '2012-05-10 10:32:55.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (226, 138, 200, 883, '2009-03-05 18:36:23.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (227, 821, 78, 60, '2018-01-28 04:12:53.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (228, 328, 144, 639, '2012-01-14 12:57:49.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (229, 662, 307, 194, '2016-04-17 08:57:39.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (230, 45, 568, 420, '2014-10-22 02:20:38.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (231, 54, 190, 999, '2004-09-17 23:09:03.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (232, 369, 82, 978, '2001-10-09 09:11:22.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (233, 835, 524, 466, '2015-07-30 01:30:49.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (234, 514, 64, 45, '2009-05-28 01:19:29.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (235, 714, 31, 750, '2005-11-24 04:03:49.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (236, 141, 223, 520, '2004-05-27 15:47:29.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (237, 877, 55, 537, '2004-02-01 00:10:10.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (238, 642, 911, 885, '2004-09-07 03:39:10.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (239, 754, 803, 197, '2011-08-25 16:54:58.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (240, 193, 198, 520, '2021-01-17 11:18:32.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (241, 503, 790, 31, '2012-04-03 07:37:55.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (242, 317, 929, 995, '2020-06-26 14:32:55.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (243, 599, 703, 199, '2014-12-17 23:16:36.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (244, 637, 84, 475, '2015-10-30 19:42:28.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (245, 136, 169, 198, '2015-09-27 07:27:46.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (246, 72, 424, 164, '2007-04-18 12:28:44.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (247, 78, 909, 416, '2017-10-28 00:18:30.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (248, 744, 562, 288, '2016-08-20 03:18:42.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (249, 61, 971, 354, '2003-11-08 10:41:45.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (250, 143, 299, 277, '2013-07-26 15:07:01.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (251, 839, 692, 66, '2000-02-09 17:47:10.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (252, 486, 552, 740, '2007-09-30 23:39:01.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (253, 125, 38, 399, '2010-06-03 21:07:41.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (254, 859, 366, 212, '2010-11-30 10:47:14.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (255, 6, 698, 557, '2007-10-28 03:57:42.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (256, 944, 216, 408, '2020-08-08 08:14:20.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (257, 22, 574, 140, '2013-02-08 18:10:52.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (258, 182, 435, 448, '2010-05-20 11:25:37.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (259, 291, 998, 166, '2002-01-24 14:06:15.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (260, 551, 574, 264, '2000-05-11 12:31:29.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (261, 635, 922, 736, '2002-07-18 02:46:13.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (262, 705, 269, 869, '2012-09-08 23:09:25.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (263, 174, 146, 584, '2014-10-05 12:18:02.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (264, 358, 592, 655, '2003-02-10 04:05:52.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (265, 624, 893, 763, '2016-01-08 14:04:11.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (266, 399, 271, 970, '2018-06-20 20:50:53.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (267, 511, 565, 459, '2008-09-27 22:01:35.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (268, 743, 186, 363, '2002-04-04 00:20:42.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (269, 598, 604, 346, '2020-08-31 20:04:28.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (270, 550, 960, 957, '2011-02-16 23:54:34.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (271, 563, 887, 628, '2001-08-09 14:45:46.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (272, 535, 380, 84, '2012-10-31 19:53:55.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (273, 884, 503, 428, '2019-07-17 05:35:38.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (274, 675, 392, 870, '2009-04-09 00:16:32.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (275, 96, 274, 248, '2010-02-05 14:02:22.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (276, 809, 196, 923, '2012-05-12 15:09:57.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (277, 27, 183, 13, '2018-07-16 19:43:00.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (278, 786, 921, 72, '2013-07-09 12:42:01.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (279, 262, 348, 913, '2018-03-28 16:03:41.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (280, 986, 434, 410, '2013-03-21 11:49:28.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (281, 307, 910, 820, '2015-01-13 03:18:23.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (282, 601, 368, 635, '2005-05-07 14:32:06.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (283, 910, 737, 506, '2012-10-16 05:59:22.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (284, 838, 200, 628, '2010-08-14 11:09:58.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (285, 691, 114, 692, '2009-07-09 05:22:07.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (286, 105, 857, 210, '2001-10-14 03:31:34.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (287, 605, 488, 646, '2019-11-20 01:16:04.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (288, 113, 911, 210, '2007-09-05 22:53:51.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (289, 548, 112, 305, '2004-11-21 17:36:37.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (290, 430, 571, 365, '2018-11-03 06:06:49.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (291, 508, 749, 436, '2017-08-09 10:30:18.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (292, 315, 64, 530, '2011-11-26 20:14:41.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (293, 464, 743, 52, '2018-11-08 16:01:36.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (294, 234, 850, 443, '2015-03-14 19:20:42.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (295, 314, 772, 30, '2010-09-26 23:33:32.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (296, 706, 355, 524, '2001-06-06 04:21:53.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (297, 521, 121, 589, '2011-05-12 21:10:27.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (298, 155, 785, 606, '2007-06-30 03:06:54.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (299, 738, 60, 298, '2014-01-30 10:43:23.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (300, 549, 803, 23, '2014-06-22 12:35:56.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (301, 695, 117, 149, '2005-03-06 04:02:09.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (302, 258, 990, 946, '2021-06-02 14:22:44.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (303, 182, 716, 875, '2012-02-12 04:59:56.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (304, 64, 296, 524, '2001-08-31 07:35:25.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (305, 549, 467, 614, '2015-08-11 04:58:55.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (306, 163, 629, 805, '2012-04-12 19:28:58.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (307, 313, 346, 344, '2015-10-27 04:53:31.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (308, 305, 523, 689, '2010-05-18 07:15:12.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (309, 891, 322, 736, '2010-02-25 09:29:08.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (310, 721, 359, 978, '2002-05-20 17:44:53.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (311, 281, 175, 209, '2016-06-18 22:16:09.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (312, 558, 434, 434, '2005-11-16 07:59:21.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (313, 987, 217, 8, '2008-04-13 01:03:54.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (314, 888, 743, 871, '2018-08-03 17:54:38.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (315, 274, 61, 314, '2009-02-16 04:53:02.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (316, 923, 237, 855, '2013-03-26 04:17:49.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (317, 214, 167, 679, '2001-09-20 10:39:15.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (318, 244, 624, 46, '2005-02-27 13:37:14.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (319, 618, 167, 756, '2010-12-31 06:22:36.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (320, 78, 805, 970, '2010-01-04 20:15:52.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (321, 835, 976, 327, '2011-11-22 09:17:05.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (322, 676, 505, 774, '2018-08-28 17:13:08.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (323, 709, 373, 718, '2015-02-09 11:18:27.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (324, 788, 654, 583, '2009-12-18 18:25:17.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (325, 482, 865, 229, '2005-11-29 09:32:25.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (326, 76, 4, 231, '2011-10-16 10:17:05.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (327, 268, 392, 298, '2011-03-30 07:22:54.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (328, 107, 101, 634, '2009-04-10 00:05:23.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (329, 759, 92, 71, '2018-07-19 05:02:23.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (330, 180, 870, 214, '2005-05-05 03:27:33.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (331, 635, 492, 663, '2020-11-03 13:10:49.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (332, 934, 655, 484, '2017-10-04 16:54:55.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (333, 511, 686, 327, '2018-12-13 15:04:09.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (334, 965, 389, 934, '2015-05-14 14:58:44.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (335, 342, 423, 708, '2003-02-20 02:03:00.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (336, 518, 991, 93, '2003-08-10 05:29:32.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (337, 135, 350, 547, '2013-11-04 10:25:35.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (338, 124, 860, 956, '2021-02-14 07:13:44.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (339, 75, 621, 146, '2009-01-07 17:50:44.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (340, 76, 439, 328, '2008-11-21 03:40:05.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (341, 97, 402, 754, '2011-07-14 11:02:25.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (342, 75, 449, 663, '2002-04-10 22:25:30.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (343, 877, 965, 781, '2002-12-07 13:04:25.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (344, 131, 963, 583, '2008-02-10 10:39:46.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (345, 339, 801, 816, '2007-04-26 03:00:02.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (346, 874, 680, 921, '2016-07-09 17:19:57.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (347, 584, 711, 883, '2005-12-14 05:01:57.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (348, 99, 141, 750, '2011-09-05 02:40:39.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (349, 173, 882, 100, '2016-03-18 01:00:53.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (350, 951, 215, 302, '2019-10-21 08:36:51.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (351, 415, 699, 898, '2013-11-13 07:32:33.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (352, 625, 761, 324, '2020-10-18 12:50:39.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (353, 826, 93, 642, '2010-03-17 16:56:59.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (354, 695, 139, 768, '2008-12-25 09:28:47.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (355, 313, 913, 102, '2020-02-14 15:25:19.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (356, 739, 599, 522, '2008-08-07 14:23:13.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (357, 721, 461, 67, '2015-03-25 08:58:32.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (358, 934, 468, 205, '2019-11-13 01:32:13.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (359, 530, 492, 411, '2018-01-05 19:00:15.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (360, 277, 309, 83, '2012-06-05 19:18:40.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (361, 266, 374, 594, '2014-10-03 18:34:30.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (362, 856, 106, 937, '2014-07-03 11:11:51.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (363, 331, 409, 949, '2009-06-03 23:33:26.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (364, 763, 673, 997, '2015-12-12 04:52:25.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (365, 376, 375, 658, '2014-05-05 14:04:31.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (366, 561, 145, 169, '2017-01-17 02:17:29.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (367, 460, 183, 271, '2015-06-21 15:05:15.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (368, 321, 870, 458, '2014-08-11 08:54:38.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (369, 233, 310, 734, '2010-08-04 03:11:22.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (370, 755, 166, 618, '2012-01-20 00:35:46.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (371, 615, 567, 863, '2016-08-09 23:27:21.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (372, 888, 321, 454, '2011-10-04 20:42:29.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (373, 593, 843, 241, '2014-02-20 23:38:20.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (374, 660, 91, 531, '2013-07-31 02:56:34.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (375, 363, 349, 615, '2020-04-16 05:59:22.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (376, 33, 174, 365, '2018-07-13 12:46:44.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (377, 675, 728, 418, '2007-10-08 01:05:14.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (378, 819, 775, 785, '2008-09-26 01:28:22.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (379, 917, 172, 473, '2002-06-02 02:33:32.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (380, 924, 428, 407, '2010-08-05 17:33:48.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (381, 117, 206, 435, '2005-02-25 05:26:40.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (382, 659, 120, 4, '2020-05-05 20:46:52.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (383, 57, 999, 897, '2020-04-07 13:46:54.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (384, 254, 745, 950, '2004-04-23 22:59:10.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (385, 404, 702, 980, '2012-11-11 22:02:41.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (386, 962, 289, 977, '2005-12-14 14:53:02.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (387, 535, 927, 58, '2004-05-07 23:59:01.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (388, 470, 599, 974, '2008-12-16 13:23:45.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (389, 775, 886, 686, '2015-11-11 09:14:23.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (390, 849, 393, 252, '2013-12-10 23:55:02.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (391, 145, 46, 543, '2008-11-29 12:15:24.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (392, 72, 829, 764, '2002-01-18 15:19:15.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (393, 814, 855, 76, '2000-08-01 05:54:15.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (394, 110, 892, 626, '2006-07-02 00:05:28.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (395, 424, 286, 900, '2019-12-26 05:58:37.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (396, 530, 970, 947, '2003-10-28 21:51:14.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (397, 336, 740, 656, '2001-03-06 01:19:04.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (398, 393, 391, 977, '2015-05-19 18:42:53.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (399, 957, 876, 925, '2011-01-04 08:37:04.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (400, 284, 480, 983, '2002-11-15 11:55:48.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (401, 126, 466, 942, '2020-01-25 14:47:43.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (402, 268, 313, 855, '2000-04-10 10:36:52.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (403, 174, 939, 723, '2018-01-14 19:10:11.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (404, 811, 712, 958, '2012-06-10 07:54:32.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (405, 954, 393, 625, '2008-09-04 02:43:34.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (406, 463, 681, 724, '2015-02-09 15:44:07.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (407, 392, 474, 351, '2006-09-28 14:38:08.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (408, 539, 302, 152, '2019-06-06 12:26:24.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (409, 657, 757, 934, '2016-07-17 06:17:24.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (410, 405, 282, 421, '2012-02-11 05:43:38.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (411, 23, 22, 287, '2020-09-13 02:10:33.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (412, 904, 105, 831, '2004-09-29 07:35:06.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (413, 298, 567, 606, '2001-12-19 23:17:32.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (414, 57, 600, 541, '2001-02-19 11:48:22.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (415, 871, 260, 855, '2018-07-13 17:12:47.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (416, 523, 776, 372, '2003-02-13 18:22:26.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (417, 786, 199, 90, '2011-06-04 20:02:34.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (418, 730, 894, 78, '2021-03-09 13:16:34.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (419, 671, 677, 204, '2016-11-23 02:19:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (420, 335, 799, 87, '2011-01-27 08:44:34.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (421, 225, 106, 765, '2014-06-10 08:21:57.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (422, 583, 184, 69, '2020-08-12 01:11:34.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (423, 949, 89, 694, '2020-10-08 22:45:57.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (424, 498, 494, 444, '2002-02-03 15:14:25.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (425, 500, 416, 551, '2008-09-18 07:42:49.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (426, 438, 955, 957, '2004-10-28 22:39:07.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (427, 776, 197, 677, '2004-05-11 12:44:17.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (428, 341, 158, 451, '2017-03-15 00:24:20.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (429, 636, 979, 603, '2000-08-23 14:18:15.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (430, 23, 793, 196, '2020-05-20 09:30:10.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (431, 332, 953, 264, '2000-03-16 18:06:59.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (432, 666, 980, 83, '2016-09-28 22:08:05.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (433, 438, 805, 254, '2017-04-13 09:00:29.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (434, 372, 58, 371, '2010-11-01 16:29:04.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (435, 838, 198, 33, '2008-12-23 16:27:21.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (436, 962, 18, 502, '2017-12-16 03:10:17.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (437, 846, 378, 455, '2004-10-27 21:34:00.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (438, 106, 758, 356, '2003-01-12 21:27:59.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (439, 622, 600, 469, '2021-09-08 18:19:20.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (440, 585, 244, 577, '2003-08-31 03:55:45.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (441, 180, 574, 453, '2000-09-07 22:41:45.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (442, 953, 722, 963, '2002-08-21 08:47:16.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (443, 488, 423, 577, '2021-06-09 03:44:26.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (444, 767, 110, 67, '2001-10-25 05:45:02.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (445, 247, 997, 757, '2020-06-08 19:58:36.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (446, 527, 559, 482, '2000-07-12 16:45:30.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (447, 10, 45, 335, '2008-05-27 05:34:10.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (448, 661, 219, 439, '2005-10-26 14:04:02.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (449, 152, 784, 257, '2020-09-15 08:45:19.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (450, 232, 74, 227, '2013-09-27 11:10:26.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (451, 965, 349, 325, '2005-02-15 16:08:49.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (452, 467, 888, 250, '2001-12-26 06:54:52.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (453, 841, 774, 953, '2012-03-19 01:48:40.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (454, 457, 127, 869, '2007-04-21 11:56:47.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (455, 116, 354, 571, '2006-03-29 00:46:06.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (456, 525, 75, 158, '2000-10-10 15:56:34.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (457, 652, 33, 815, '2010-03-03 09:13:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (458, 360, 688, 627, '2003-09-13 09:51:13.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (459, 991, 856, 990, '2019-11-25 04:47:18.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (460, 323, 678, 146, '2011-12-02 17:32:43.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (461, 423, 784, 831, '2002-03-12 08:57:14.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (462, 159, 157, 529, '2015-12-01 00:08:01.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (463, 275, 196, 422, '2008-09-17 15:11:16.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (464, 590, 284, 248, '2017-01-07 01:38:05.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (465, 459, 198, 548, '2012-08-25 03:43:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (466, 303, 169, 234, '2000-07-16 08:50:10.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (467, 927, 851, 127, '2019-06-01 14:32:35.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (468, 859, 146, 539, '2010-09-03 16:04:23.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (469, 47, 798, 810, '2007-11-02 11:06:17.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (470, 492, 68, 740, '2012-03-19 19:19:46.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (471, 247, 497, 338, '2011-11-21 10:54:22.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (472, 268, 704, 986, '2012-05-03 17:31:11.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (473, 966, 882, 512, '2021-08-10 11:46:27.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (474, 659, 261, 725, '2000-06-03 19:57:33.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (475, 197, 479, 651, '2017-05-28 04:26:14.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (476, 48, 122, 431, '2014-09-15 23:09:19.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (477, 62, 475, 854, '2001-09-13 11:27:25.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (478, 603, 270, 398, '2007-09-29 01:24:11.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (479, 705, 784, 435, '2009-12-07 23:01:32.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (480, 205, 937, 499, '2007-03-02 05:01:57.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (481, 612, 927, 979, '2015-07-16 15:16:52.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (482, 236, 957, 274, '2004-07-25 22:13:51.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (483, 896, 651, 420, '2004-10-09 05:50:09.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (484, 413, 246, 801, '2000-08-13 05:33:30.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (485, 160, 398, 824, '2015-10-27 22:21:30.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (486, 622, 182, 960, '2020-04-03 03:46:30.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (487, 186, 939, 980, '2008-04-30 20:37:13.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (488, 745, 570, 941, '2007-05-09 20:52:44.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (489, 590, 205, 578, '2005-05-01 17:11:11.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (490, 637, 810, 474, '2012-06-14 14:16:22.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (491, 111, 804, 737, '2020-02-17 11:40:34.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (492, 440, 483, 787, '2012-07-07 05:37:42.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (493, 804, 619, 62, '2005-06-10 20:35:50.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (494, 557, 710, 34, '2014-12-15 21:53:42.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (495, 458, 778, 392, '2001-01-27 09:50:10.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (496, 686, 85, 530, '2007-01-16 09:36:07.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (497, 828, 625, 283, '2012-11-30 13:19:11.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (498, 494, 298, 835, '2004-05-28 15:21:43.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (499, 581, 962, 467, '2004-12-28 08:28:33.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (500, 183, 580, 311, '2004-02-07 10:21:53.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (501, 249, 105, 738, '2001-10-13 04:20:29.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (502, 826, 7, 782, '2011-09-08 02:59:13.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (503, 478, 827, 859, '2018-01-02 16:50:40.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (504, 515, 514, 338, '2013-05-28 07:03:29.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (505, 418, 557, 129, '2009-03-12 09:37:23.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (506, 853, 7, 1, '2017-06-07 05:46:29.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (507, 470, 741, 225, '2002-06-19 12:03:58.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (508, 952, 37, 853, '2021-08-16 15:50:40.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (509, 915, 104, 949, '2016-01-08 08:58:57.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (510, 792, 79, 748, '2010-08-10 01:57:27.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (511, 696, 134, 272, '2016-09-12 01:46:21.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (512, 945, 74, 119, '2009-05-09 06:46:00.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (513, 568, 627, 339, '2008-10-16 02:16:01.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (514, 413, 327, 993, '2006-07-03 19:06:15.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (515, 789, 940, 630, '2004-04-27 15:10:22.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (516, 983, 858, 74, '2018-10-18 04:19:48.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (517, 340, 382, 21, '2003-08-24 08:10:51.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (518, 462, 598, 239, '2010-07-14 23:04:01.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (519, 939, 889, 117, '2020-01-31 10:19:55.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (520, 727, 294, 682, '2011-04-14 21:45:02.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (521, 332, 165, 258, '2010-08-22 16:24:18.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (522, 72, 696, 595, '2009-02-07 01:01:18.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (523, 370, 769, 50, '2011-05-26 15:57:31.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (524, 902, 464, 746, '2021-03-31 19:28:43.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (525, 120, 21, 581, '2018-06-13 01:19:14.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (526, 48, 540, 764, '2021-01-21 08:36:32.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (527, 833, 232, 881, '2000-03-25 13:16:07.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (528, 585, 553, 479, '2020-01-25 07:16:52.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (529, 386, 287, 599, '2016-05-15 00:57:13.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (530, 217, 545, 813, '2011-10-10 12:52:00.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (531, 576, 789, 233, '2001-08-21 01:22:45.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (532, 769, 484, 543, '2020-06-11 12:41:08.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (533, 258, 331, 609, '2018-09-03 14:52:11.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (534, 981, 254, 191, '2013-09-06 01:26:41.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (535, 12, 445, 355, '2015-01-31 11:34:53.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (536, 312, 335, 520, '2015-01-01 14:07:36.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (537, 793, 651, 813, '2000-10-29 23:54:21.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (538, 813, 493, 240, '2000-06-19 23:33:59.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (539, 478, 581, 899, '2019-05-14 20:25:44.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (540, 344, 90, 449, '2012-04-13 16:47:23.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (541, 805, 215, 164, '2008-01-28 11:44:53.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (542, 136, 473, 12, '2005-06-12 16:03:47.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (543, 542, 254, 314, '2008-08-07 13:39:10.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (544, 711, 667, 835, '2007-10-01 14:00:39.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (545, 771, 168, 353, '2000-03-23 17:15:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (546, 316, 8, 305, '2006-08-24 12:24:48.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (547, 565, 265, 827, '2016-10-03 10:12:15.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (548, 443, 688, 486, '2015-08-25 20:57:27.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (549, 52, 917, 354, '2008-10-31 15:41:03.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (550, 42, 967, 935, '2008-10-17 16:04:38.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (551, 353, 14, 331, '2007-01-06 04:39:37.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (552, 761, 329, 122, '2013-06-09 21:34:24.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (553, 581, 486, 998, '2005-08-28 23:11:07.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (554, 300, 50, 338, '2014-11-23 03:09:54.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (555, 713, 320, 292, '2001-05-07 21:12:54.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (556, 354, 966, 776, '2019-04-14 08:57:50.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (557, 946, 726, 889, '2006-04-19 02:00:36.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (558, 446, 19, 88, '2021-02-25 11:55:49.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (559, 496, 13, 46, '2007-09-16 14:09:23.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (560, 289, 196, 308, '2021-01-28 09:08:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (561, 84, 985, 618, '2010-02-20 02:12:45.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (562, 660, 558, 531, '2009-07-23 13:18:00.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (563, 342, 328, 849, '2011-01-09 07:27:28.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (564, 914, 287, 79, '2001-03-10 07:52:29.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (565, 612, 505, 632, '2007-08-08 01:31:51.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (566, 913, 686, 63, '2008-12-11 23:47:50.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (567, 32, 39, 213, '2016-07-23 14:51:58.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (568, 604, 498, 260, '2019-11-13 15:37:53.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (569, 503, 920, 815, '2014-10-06 17:56:53.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (570, 327, 510, 124, '2021-07-01 12:01:23.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (571, 162, 341, 176, '2013-08-26 20:52:38.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (572, 279, 182, 615, '2012-01-27 07:19:13.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (573, 717, 419, 44, '2016-01-21 06:18:45.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (574, 651, 690, 933, '2001-12-22 13:05:51.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (575, 509, 771, 763, '2009-08-12 00:24:38.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (576, 283, 70, 512, '2007-12-16 18:33:27.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (577, 199, 463, 894, '2012-05-22 14:52:40.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (578, 997, 828, 457, '2020-01-14 19:14:04.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (579, 834, 692, 728, '2009-02-15 16:48:22.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (580, 103, 13, 211, '2011-05-26 11:58:08.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (581, 637, 328, 546, '2012-11-30 22:38:20.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (582, 565, 28, 891, '2001-09-16 01:24:02.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (583, 625, 925, 922, '2008-11-25 14:49:21.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (584, 233, 210, 226, '2015-10-20 19:37:16.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (585, 193, 357, 953, '2018-02-15 18:20:05.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (586, 837, 957, 595, '2011-10-01 00:18:44.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (587, 283, 118, 262, '2019-10-17 08:13:59.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (588, 728, 340, 675, '2020-09-12 21:01:42.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (589, 269, 500, 982, '2019-04-02 06:07:32.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (590, 73, 156, 663, '2015-04-03 16:34:03.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (591, 600, 525, 69, '2000-03-17 19:50:40.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (592, 319, 708, 494, '2010-01-02 23:17:03.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (593, 99, 124, 742, '2013-08-13 19:34:27.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (594, 311, 18, 722, '2002-05-15 09:29:42.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (595, 298, 70, 373, '2004-02-21 01:00:16.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (596, 253, 698, 755, '2001-06-13 02:14:05.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (597, 95, 131, 744, '2007-10-09 16:30:23.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (598, 898, 634, 213, '2016-09-30 12:35:39.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (599, 171, 273, 681, '2004-04-18 16:22:14.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (600, 653, 113, 694, '2020-06-20 15:13:39.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (601, 251, 954, 653, '2019-05-25 13:24:20.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (602, 386, 412, 99, '2009-08-09 23:06:05.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (603, 259, 853, 998, '2008-09-22 11:08:59.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (604, 561, 789, 887, '2016-04-30 13:54:28.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (605, 129, 51, 393, '2006-11-20 17:57:44.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (606, 283, 436, 103, '2001-07-27 00:44:19.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (607, 874, 729, 715, '2013-06-17 10:09:30.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (608, 719, 187, 8, '2020-04-13 07:33:11.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (609, 98, 80, 465, '2000-12-16 17:17:42.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (610, 689, 93, 210, '2021-05-25 12:16:24.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (611, 938, 904, 43, '2004-10-06 03:06:19.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (612, 665, 259, 2, '2013-02-04 03:36:26.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (613, 466, 922, 997, '2015-06-18 14:05:24.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (614, 947, 961, 327, '2014-11-15 04:43:19.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (615, 730, 249, 73, '2013-09-17 01:28:40.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (616, 987, 109, 975, '2017-09-23 13:32:42.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (617, 473, 560, 293, '2004-06-11 16:57:30.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (618, 765, 119, 960, '2018-07-31 23:02:53.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (619, 146, 373, 479, '2016-02-12 01:07:35.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (620, 908, 800, 135, '2016-10-22 06:55:31.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (621, 300, 938, 445, '2021-08-25 01:15:29.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (622, 607, 863, 363, '2007-10-13 17:15:44.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (623, 310, 332, 923, '2013-07-07 13:21:12.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (624, 78, 954, 472, '2012-04-04 02:30:51.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (625, 950, 327, 381, '2000-07-03 02:01:41.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (626, 823, 887, 30, '2017-10-05 05:05:12.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (627, 186, 225, 498, '2010-02-03 07:55:40.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (628, 180, 147, 184, '2017-11-24 10:39:45.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (629, 708, 565, 667, '2013-12-19 05:13:47.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (630, 175, 302, 508, '2020-08-04 16:49:03.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (631, 202, 89, 611, '2017-07-23 06:07:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (632, 894, 911, 264, '2021-08-30 06:21:16.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (633, 377, 319, 749, '2003-11-17 01:12:45.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (634, 145, 343, 865, '2009-11-12 14:16:12.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (635, 510, 993, 48, '2003-03-19 13:13:24.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (636, 848, 156, 540, '2020-02-13 23:59:55.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (637, 917, 284, 902, '2015-11-06 23:21:06.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (638, 709, 172, 683, '2013-10-20 19:39:04.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (639, 576, 968, 85, '2008-02-11 05:39:13.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (640, 986, 692, 101, '2016-11-30 01:14:56.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (641, 20, 259, 716, '2005-09-30 03:45:11.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (642, 629, 211, 994, '2013-05-15 09:50:29.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (643, 206, 432, 995, '2019-10-02 02:08:02.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (644, 525, 441, 115, '2018-06-02 11:52:26.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (645, 902, 141, 480, '2014-06-08 04:13:50.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (646, 30, 37, 992, '2006-05-31 15:41:21.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (647, 945, 639, 2, '2001-11-08 10:37:54.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (648, 200, 17, 21, '2007-08-24 03:19:02.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (649, 77, 646, 717, '2017-03-24 05:35:51.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (650, 56, 841, 459, '2011-11-30 12:31:57.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (651, 463, 801, 645, '2015-11-07 21:44:53.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (652, 941, 30, 120, '2015-08-02 21:23:22.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (653, 366, 712, 613, '2000-04-18 12:51:33.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (654, 75, 475, 689, '2001-01-24 01:52:20.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (655, 648, 200, 759, '2005-11-19 06:00:23.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (656, 432, 725, 571, '2006-09-21 10:52:54.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (657, 728, 495, 332, '2014-05-25 03:15:25.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (658, 598, 417, 154, '2019-09-04 20:35:06.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (659, 164, 311, 746, '2012-06-26 14:35:04.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (660, 868, 505, 915, '2017-04-15 18:32:26.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (661, 626, 471, 692, '2018-08-18 01:00:18.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (662, 70, 653, 177, '2008-08-10 00:56:38.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (663, 560, 751, 379, '2014-04-10 17:35:27.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (664, 751, 703, 856, '2012-01-14 08:22:57.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (665, 891, 164, 196, '2015-04-29 01:06:29.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (666, 819, 247, 951, '2010-11-28 03:24:46.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (667, 521, 414, 377, '2000-03-14 00:43:17.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (668, 521, 275, 772, '2006-01-29 09:22:32.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (669, 560, 438, 267, '2000-01-04 15:46:27.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (670, 941, 369, 553, '2003-03-02 13:57:12.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (671, 327, 538, 298, '2015-08-15 21:10:09.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (672, 938, 237, 826, '2011-01-19 10:34:33.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (673, 481, 935, 681, '2016-01-30 18:29:37.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (674, 361, 300, 818, '2014-03-07 02:50:00.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (675, 26, 157, 777, '2016-09-29 01:50:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (676, 92, 50, 57, '2014-09-09 05:56:20.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (677, 286, 10, 166, '2008-06-13 10:26:10.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (678, 471, 525, 644, '2010-11-20 03:13:20.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (679, 179, 664, 786, '2005-05-20 08:59:18.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (680, 137, 528, 826, '2004-06-05 16:14:35.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (681, 835, 931, 973, '2011-11-04 15:23:46.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (682, 159, 764, 248, '2005-03-27 11:07:50.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (683, 730, 520, 172, '2014-01-12 18:06:14.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (684, 365, 752, 992, '2008-06-12 09:09:07.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (685, 310, 430, 102, '2000-07-30 18:19:47.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (686, 936, 623, 51, '2016-06-28 23:06:32.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (687, 381, 261, 212, '2014-08-02 02:12:50.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (688, 307, 249, 856, '2001-12-05 18:00:28.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (689, 909, 590, 176, '2016-02-12 12:58:23.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (690, 858, 125, 609, '2021-07-22 21:58:33.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (691, 362, 436, 300, '2020-02-08 09:22:09.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (692, 85, 203, 331, '2008-11-09 00:50:41.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (693, 186, 814, 906, '2000-06-23 17:24:49.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (694, 106, 204, 800, '2010-12-21 16:58:37.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (695, 357, 702, 406, '2014-05-22 00:05:11.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (696, 870, 728, 706, '2015-11-22 19:06:01.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (697, 278, 584, 48, '2019-09-09 02:52:11.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (698, 996, 461, 83, '2017-07-06 04:12:53.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (699, 163, 939, 98, '2011-07-27 06:17:20.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (700, 478, 644, 112, '2014-04-22 16:17:13.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (701, 642, 818, 552, '2005-04-22 04:55:58.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (702, 204, 766, 38, '2015-08-28 14:53:48.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (703, 412, 940, 377, '2018-03-28 03:00:50.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (704, 779, 468, 973, '2003-05-13 07:09:22.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (705, 227, 132, 872, '2013-01-31 05:36:55.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (706, 408, 390, 813, '2005-07-07 18:18:56.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (707, 595, 775, 948, '2015-03-28 02:49:15.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (708, 670, 394, 483, '2010-09-04 10:21:23.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (709, 72, 261, 2, '2000-02-26 13:03:45.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (710, 968, 655, 583, '2013-05-07 21:39:07.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (711, 702, 258, 203, '2005-09-09 05:44:26.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (712, 144, 745, 735, '2009-06-19 18:26:55.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (713, 413, 267, 513, '2014-11-05 00:49:28.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (714, 675, 293, 502, '2018-12-10 20:47:57.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (715, 631, 684, 775, '2002-09-22 12:43:33.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (716, 73, 321, 606, '2009-10-03 01:40:01.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (717, 99, 898, 46, '2015-02-10 14:58:02.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (718, 755, 519, 511, '2018-08-31 14:38:44.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (719, 622, 697, 862, '2016-05-01 14:10:10.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (720, 648, 616, 178, '2005-11-08 02:32:56.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (721, 319, 329, 624, '2021-07-23 09:44:08.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (722, 601, 22, 114, '2000-04-30 21:52:21.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (723, 876, 546, 908, '2016-01-13 10:59:39.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (724, 22, 912, 40, '2019-01-10 22:50:07.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (725, 6, 322, 479, '2005-09-21 06:04:03.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (726, 988, 269, 791, '2005-01-15 19:09:55.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (727, 888, 551, 482, '2016-01-18 14:29:08.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (728, 711, 986, 299, '2018-02-19 23:47:56.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (729, 761, 439, 883, '2020-01-01 23:05:09.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (730, 778, 613, 926, '2020-06-03 10:13:34.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (731, 780, 623, 332, '2005-08-27 07:07:51.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (732, 723, 685, 703, '2017-08-12 10:36:04.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (733, 240, 284, 283, '2011-01-12 02:16:28.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (734, 912, 59, 782, '2018-02-24 18:34:03.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (735, 581, 866, 925, '2015-05-20 14:44:38.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (736, 826, 516, 893, '2006-04-10 21:24:56.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (737, 145, 526, 937, '2016-05-25 23:42:58.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (738, 834, 500, 513, '2018-07-13 08:11:13.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (739, 756, 466, 539, '2020-02-08 12:09:00.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (740, 200, 623, 601, '2017-04-01 06:55:00.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (741, 452, 840, 819, '2007-04-22 03:54:54.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (742, 503, 592, 616, '2002-07-05 13:06:54.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (743, 117, 235, 53, '2020-07-30 07:43:26.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (744, 433, 182, 646, '2004-05-08 11:05:45.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (745, 219, 3, 726, '2000-10-11 00:09:04.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (746, 659, 576, 453, '2019-08-14 09:57:40.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (747, 488, 720, 164, '2006-01-07 07:32:13.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (748, 644, 449, 675, '2000-10-13 07:31:44.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (749, 674, 854, 473, '2002-09-30 03:51:26.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (750, 245, 77, 883, '2021-07-22 09:12:36.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (751, 519, 752, 586, '2004-04-23 03:35:08.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (752, 474, 207, 757, '2005-02-04 03:53:53.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (753, 666, 600, 653, '2007-07-08 09:50:53.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (754, 369, 985, 257, '2008-08-08 19:51:40.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (755, 904, 126, 935, '2014-11-15 20:08:23.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (756, 202, 146, 418, '2004-11-08 16:23:09.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (757, 888, 594, 235, '2019-08-07 07:51:55.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (758, 868, 2, 867, '2012-11-20 06:25:57.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (759, 865, 296, 316, '2000-12-09 22:14:30.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (760, 852, 251, 868, '2015-05-15 11:36:09.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (761, 20, 637, 597, '2006-09-09 21:22:58.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (762, 286, 785, 731, '2000-01-27 12:38:45.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (763, 877, 377, 116, '2002-09-21 23:09:54.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (764, 789, 555, 304, '2016-12-15 16:44:44.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (765, 184, 858, 49, '2005-10-30 06:53:14.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (766, 761, 164, 38, '2008-09-23 11:47:25.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (767, 595, 796, 169, '2005-11-01 21:48:42.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (768, 516, 595, 82, '2002-05-23 15:10:19.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (769, 633, 582, 130, '2015-06-15 02:43:11.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (770, 902, 797, 89, '2000-05-11 13:45:37.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (771, 242, 612, 866, '2006-05-22 17:33:34.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (772, 929, 932, 49, '2015-07-15 23:21:09.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (773, 582, 624, 608, '2003-10-28 17:13:23.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (774, 248, 62, 864, '2013-04-08 13:19:35.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (775, 259, 625, 674, '2001-03-12 08:00:41.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (776, 75, 735, 804, '2009-03-22 19:38:11.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (777, 593, 56, 416, '2008-12-18 09:39:44.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (778, 373, 130, 972, '2020-01-07 22:25:37.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (779, 953, 709, 667, '2006-10-11 21:00:32.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (780, 701, 126, 844, '2006-12-17 17:14:52.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (781, 969, 225, 924, '2004-10-07 10:54:04.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (782, 186, 553, 583, '2019-09-20 14:07:00.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (783, 229, 118, 157, '2013-09-23 21:13:41.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (784, 166, 455, 779, '2013-07-29 04:37:57.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (785, 718, 583, 728, '2011-12-06 10:15:00.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (786, 986, 145, 199, '2005-06-10 07:52:01.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (787, 269, 187, 872, '2000-02-06 12:31:03.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (788, 744, 854, 540, '2008-12-18 03:20:01.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (789, 919, 289, 897, '2011-08-20 08:58:02.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (790, 62, 897, 978, '2013-03-29 09:19:48.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (791, 833, 163, 230, '2013-07-29 10:14:53.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (792, 607, 34, 204, '2012-07-23 20:02:56.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (793, 305, 218, 921, '2021-06-24 01:43:04.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (794, 379, 432, 651, '2008-01-07 03:22:13.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (795, 29, 218, 891, '2016-12-21 17:06:13.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (796, 530, 620, 48, '2005-01-17 21:00:02.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (797, 361, 84, 485, '2020-05-21 23:09:04.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (798, 388, 987, 22, '2018-08-31 19:23:45.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (799, 35, 381, 689, '2017-09-12 13:22:55.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (800, 740, 375, 257, '2020-12-11 17:36:00.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (801, 320, 704, 165, '2012-06-30 18:18:05.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (802, 55, 257, 270, '2005-03-06 11:30:19.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (803, 964, 280, 748, '2001-06-12 22:10:15.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (804, 119, 136, 620, '2020-03-29 03:50:25.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (805, 263, 266, 445, '2004-06-02 07:42:05.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (806, 424, 217, 282, '2004-08-24 03:21:18.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (807, 830, 265, 458, '2017-03-21 22:03:46.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (808, 957, 542, 306, '2021-07-03 17:27:05.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (809, 426, 791, 271, '2018-03-19 01:03:36.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (810, 229, 68, 21, '2008-06-12 19:56:46.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (811, 520, 112, 952, '2007-02-23 05:24:35.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (812, 486, 510, 184, '2012-04-04 22:50:38.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (813, 67, 135, 812, '2013-01-22 13:54:06.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (814, 739, 218, 997, '2003-07-22 14:46:33.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (815, 196, 113, 807, '2011-02-16 11:37:37.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (816, 982, 332, 421, '2000-01-03 14:50:32.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (817, 201, 923, 747, '2005-05-10 12:33:19.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (818, 475, 404, 286, '2019-04-17 08:41:52.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (819, 684, 626, 742, '2006-08-14 20:25:27.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (820, 226, 784, 245, '2005-08-27 21:57:01.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (821, 909, 831, 345, '2018-08-23 15:34:07.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (822, 849, 54, 960, '2001-12-28 07:58:45.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (823, 975, 257, 782, '2017-04-21 02:48:42.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (824, 748, 963, 835, '2013-03-14 18:25:56.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (825, 627, 24, 75, '2010-06-22 23:51:19.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (826, 108, 102, 257, '2007-09-21 07:43:49.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (827, 139, 681, 989, '2004-12-15 14:04:59.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (828, 198, 444, 527, '2015-08-26 23:45:04.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (829, 474, 337, 953, '2006-04-02 02:06:43.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (830, 884, 687, 81, '2003-11-11 11:05:41.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (831, 766, 782, 650, '2004-11-16 10:23:24.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (832, 524, 236, 500, '2002-01-13 03:12:39.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (833, 485, 175, 37, '2020-03-23 13:03:40.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (834, 173, 869, 581, '2019-01-06 03:36:43.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (835, 96, 162, 719, '2010-09-29 13:27:36.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (836, 194, 357, 818, '2010-05-20 08:44:18.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (837, 835, 411, 228, '2006-02-12 01:41:24.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (838, 955, 503, 336, '2004-12-25 03:04:14.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (839, 435, 278, 866, '2001-09-19 19:29:20.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (840, 532, 743, 18, '2014-10-19 21:31:06.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (841, 353, 939, 434, '2016-02-27 18:11:08.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (842, 680, 269, 250, '2011-11-11 06:19:46.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (843, 390, 678, 574, '2017-06-01 08:42:06.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (844, 635, 768, 499, '2006-06-22 09:07:05.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (845, 239, 90, 152, '2007-11-19 11:44:03.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (846, 181, 538, 499, '2004-06-24 17:19:30.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (847, 7, 907, 335, '2015-07-09 03:04:14.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (848, 101, 555, 109, '2009-09-15 15:18:46.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (849, 913, 382, 537, '2006-05-20 20:40:28.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (850, 757, 763, 464, '2004-11-09 22:08:28.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (851, 642, 772, 716, '2013-09-09 03:48:34.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (852, 657, 517, 634, '2019-02-11 12:15:37.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (853, 706, 164, 17, '2020-06-29 15:19:50.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (854, 445, 423, 140, '2001-05-06 02:29:52.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (855, 385, 845, 963, '2010-02-25 04:33:50.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (856, 941, 956, 976, '2008-05-30 16:06:36.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (857, 126, 623, 553, '2005-03-14 14:38:42.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (858, 439, 643, 52, '2019-05-02 15:47:58.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (859, 121, 836, 153, '2014-09-25 12:00:32.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (860, 888, 350, 721, '2016-02-15 21:30:49.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (861, 442, 574, 849, '2006-11-06 19:17:40.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (862, 904, 263, 72, '2008-07-18 11:24:14.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (863, 110, 772, 38, '2019-11-29 06:34:31.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (864, 687, 211, 266, '2006-08-27 23:58:28.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (865, 242, 727, 750, '2003-03-23 02:59:47.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (866, 432, 727, 125, '2018-10-14 19:38:15.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (867, 593, 54, 592, '2007-05-22 13:37:30.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (868, 739, 135, 964, '2019-09-02 07:31:50.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (869, 119, 382, 422, '2007-06-24 22:59:41.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (870, 915, 834, 974, '2018-11-20 13:30:56.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (871, 578, 493, 946, '2001-05-12 21:40:36.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (872, 354, 867, 958, '2017-09-12 01:10:53.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (873, 758, 517, 843, '2006-06-12 15:32:04.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (874, 794, 758, 815, '2017-05-24 15:19:55.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (875, 208, 360, 691, '2011-03-23 10:02:46.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (876, 75, 550, 43, '2019-12-08 13:57:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (877, 205, 236, 263, '2018-11-28 15:27:37.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (878, 766, 150, 251, '2002-01-25 05:15:58.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (879, 449, 435, 974, '2014-06-06 22:53:22.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (880, 316, 954, 221, '2018-01-23 21:54:13.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (881, 817, 663, 776, '2019-12-30 22:28:37.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (882, 21, 31, 727, '2012-08-28 18:59:52.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (883, 860, 824, 82, '2000-08-08 17:21:20.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (884, 458, 419, 206, '2009-12-05 15:39:45.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (885, 403, 1, 896, '2011-10-07 02:29:12.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (886, 374, 154, 202, '2015-01-15 09:23:55.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (887, 774, 736, 101, '2013-07-16 04:05:38.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (888, 423, 24, 10, '2001-12-13 12:32:17.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (889, 296, 533, 792, '2011-03-23 06:23:30.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (890, 190, 638, 358, '2011-10-03 11:32:00.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (891, 834, 911, 713, '2011-10-08 02:00:42.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (892, 687, 739, 226, '2020-04-24 18:36:11.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (893, 770, 334, 140, '2007-10-08 07:38:27.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (894, 880, 607, 960, '2011-11-19 16:59:03.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (895, 61, 576, 274, '2002-11-14 07:34:31.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (896, 94, 985, 101, '2017-09-11 10:37:40.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (897, 937, 886, 186, '2005-09-05 00:40:01.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (898, 253, 295, 327, '2004-09-30 12:36:24.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (899, 543, 275, 302, '2012-11-08 17:27:41.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (900, 530, 89, 348, '2004-08-28 19:57:59.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (901, 232, 790, 98, '2020-07-30 23:10:30.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (902, 96, 690, 835, '2004-11-05 08:44:21.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (903, 342, 345, 78, '2012-06-24 21:45:09.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (904, 49, 102, 774, '2003-11-01 13:56:20.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (905, 272, 435, 97, '2007-06-18 11:05:57.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (906, 783, 865, 875, '2020-09-12 13:32:58.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (907, 480, 163, 783, '2011-03-30 00:54:43.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (908, 100, 293, 524, '2016-01-16 03:17:21.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (909, 575, 854, 831, '2005-06-14 15:54:49.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (910, 843, 638, 105, '2021-09-13 16:27:45.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (911, 797, 708, 240, '2009-11-07 03:07:14.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (912, 619, 461, 610, '2010-08-29 05:31:25.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (913, 722, 654, 678, '2012-07-15 20:48:51.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (914, 308, 679, 694, '2004-02-26 10:29:50.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (915, 426, 751, 258, '2010-05-28 01:26:40.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (916, 588, 495, 599, '2009-01-11 13:59:26.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (917, 430, 307, 642, '2004-01-06 11:28:04.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (918, 553, 107, 432, '2005-03-18 11:16:26.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (919, 375, 256, 945, '2010-06-16 12:20:01.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (920, 606, 497, 140, '2020-12-13 23:39:56.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (921, 569, 327, 725, '2020-04-02 22:42:02.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (922, 579, 814, 332, '2005-02-26 10:38:02.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (923, 156, 779, 136, '2001-09-18 08:57:09.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (924, 735, 855, 372, '2008-04-16 22:12:32.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (925, 267, 810, 623, '2012-03-15 00:56:38.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (926, 865, 51, 218, '2001-09-25 16:21:58.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (927, 380, 796, 848, '2012-01-08 12:41:35.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (928, 138, 225, 918, '2000-03-14 08:53:35.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (929, 877, 723, 114, '2014-06-02 20:51:54.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (930, 63, 530, 519, '2017-05-10 15:21:20.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (931, 954, 959, 538, '2005-02-01 23:09:28.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (932, 955, 293, 132, '2002-05-30 09:16:45.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (933, 775, 630, 147, '2020-09-04 08:15:57.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (934, 519, 628, 598, '2012-12-01 07:59:01.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (935, 570, 422, 493, '2007-04-11 04:26:03.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (936, 245, 925, 229, '2014-08-26 15:02:07.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (937, 948, 294, 249, '2009-11-01 01:37:26.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (938, 144, 131, 219, '2004-05-02 18:23:06.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (939, 887, 914, 940, '2018-06-05 11:24:30.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (940, 934, 357, 420, '2007-10-24 00:54:14.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (941, 469, 66, 628, '2015-12-23 19:09:00.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (942, 245, 658, 184, '2007-04-10 05:17:32.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (943, 43, 764, 535, '2004-01-13 23:58:45.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (944, 535, 468, 582, '2001-03-01 11:40:08.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (945, 35, 279, 494, '2012-04-19 21:41:28.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (946, 126, 614, 787, '2010-04-11 13:03:46.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (947, 792, 513, 41, '2011-09-11 13:18:10.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (948, 207, 825, 225, '2018-02-22 23:50:31.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (949, 200, 366, 676, '2009-03-25 17:21:21.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (950, 240, 458, 588, '2016-07-18 14:12:09.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (951, 924, 519, 476, '2013-12-11 03:04:12.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (952, 43, 201, 662, '2020-04-23 17:02:39.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (953, 856, 637, 138, '2014-06-02 20:33:24.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (954, 294, 234, 421, '2017-06-02 01:51:30.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (955, 871, 293, 724, '2014-03-23 13:37:22.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (956, 113, 677, 23, '2001-03-11 04:22:04.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (957, 919, 500, 814, '2004-10-02 22:55:57.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (958, 357, 851, 220, '2010-10-24 03:46:57.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (959, 541, 532, 346, '2010-09-19 01:54:35.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (960, 329, 506, 184, '2013-08-04 10:38:12.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (961, 96, 100, 234, '2008-01-29 01:15:51.000000', true, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (962, 929, 244, 778, '2012-02-19 11:21:56.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (963, 177, 131, 284, '2021-04-22 11:00:00.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (964, 765, 238, 868, '2016-07-01 19:07:14.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (965, 330, 8, 700, '2013-06-07 22:28:32.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (966, 627, 130, 456, '2008-02-02 11:50:50.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (967, 220, 731, 193, '2010-02-11 19:54:36.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (968, 456, 882, 374, '2014-06-30 23:46:31.000000', true, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (969, 427, 526, 175, '2004-07-11 01:16:46.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (970, 744, 675, 835, '2016-06-20 08:27:57.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (971, 22, 899, 848, '2015-08-03 05:45:06.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (972, 852, 139, 770, '2015-05-08 03:52:07.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (973, 824, 162, 230, '2016-03-16 20:49:50.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (974, 350, 810, 472, '2019-04-08 00:01:42.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (975, 474, 425, 869, '2008-12-14 09:08:54.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (976, 991, 913, 196, '2009-11-10 19:06:33.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (977, 102, 741, 452, '2017-05-14 10:57:21.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (978, 330, 605, 271, '2001-06-08 11:23:41.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (979, 105, 273, 457, '2014-10-20 16:45:43.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (980, 605, 178, 185, '2008-09-12 21:45:57.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (981, 612, 834, 981, '2020-04-03 00:17:42.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (982, 160, 168, 66, '2004-07-23 06:31:43.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (983, 314, 835, 584, '2011-03-03 06:38:15.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (984, 69, 903, 363, '2014-02-23 08:08:17.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (985, 529, 272, 982, '2016-10-16 10:38:15.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (986, 424, 469, 511, '2017-01-14 16:15:03.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (987, 241, 879, 947, '2005-02-19 09:17:52.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (988, 715, 47, 973, '2021-08-03 16:16:17.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (989, 29, 277, 728, '2013-10-22 21:14:18.000000', false, '5');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (990, 490, 363, 816, '2015-01-27 11:45:12.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (991, 1, 605, 852, '2018-12-03 09:35:39.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (992, 166, 304, 884, '2016-04-03 04:13:37.000000', true, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (993, 27, 249, 98, '2015-02-21 08:47:13.000000', false, '1');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (994, 402, 445, 78, '2001-04-01 16:54:30.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (995, 195, 176, 173, '2017-12-11 14:21:22.000000', true, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (996, 90, 666, 724, '2013-11-30 09:39:52.000000', false, '3');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (997, 851, 374, 605, '2002-08-22 00:24:51.000000', false, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (998, 435, 261, 665, '2015-03-09 04:04:47.000000', false, '2');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (999, 773, 27, 120, '2004-10-06 00:36:08.000000', true, '4');
-INSERT INTO public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES (1000, 41, 51, 7, '2009-12-11 13:13:46.000000', false, '1');
+insert into public.deals (id, seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating)
+values  (1, 465, 270, 1181, '2021-04-26 12:09:05.000000', false, 5),
+        (2, 208, 609, 1610, '2021-09-14 19:15:31.000000', true, 3),
+        (3, 997, 426, 895, '2021-02-13 15:48:59.000000', true, 3),
+        (4, 954, 793, 504, '2021-07-24 03:54:56.000000', true, 1),
+        (5, 400, 753, 1887, '2021-01-08 10:44:46.000000', true, 5),
+        (6, 716, 16, 1864, '2021-08-15 01:56:48.000000', false, 2),
+        (7, 145, 97, 177, '2021-02-18 12:20:52.000000', true, 1),
+        (8, 222, 686, 787, '2021-07-04 11:37:03.000000', true, 3),
+        (9, 431, 133, 119, '2021-04-06 14:12:07.000000', true, 2),
+        (10, 254, 629, 752, '2021-07-02 19:13:41.000000', false, 4),
+        (11, 677, 437, 1737, '2021-08-13 03:50:48.000000', false, 4),
+        (12, 425, 405, 1441, '2021-08-19 13:50:48.000000', true, 3),
+        (13, 531, 361, 1160, '2021-01-07 23:12:37.000000', true, 5),
+        (14, 887, 973, 821, '2021-06-05 23:32:53.000000', false, 4),
+        (15, 650, 356, 1049, '2021-04-07 20:41:32.000000', true, 1),
+        (16, 988, 328, 480, '2021-02-14 04:06:48.000000', false, 4),
+        (17, 735, 400, 70, '2021-01-16 10:28:53.000000', true, 4),
+        (18, 539, 55, 1210, '2021-03-05 00:24:30.000000', false, 3),
+        (19, 555, 955, 673, '2021-02-08 09:14:49.000000', false, 1),
+        (20, 239, 824, 1348, '2021-01-22 23:24:57.000000', false, 1),
+        (21, 244, 96, 1355, '2021-09-17 23:34:02.000000', true, 2),
+        (22, 823, 780, 271, '2021-06-11 16:06:41.000000', true, 4),
+        (23, 367, 515, 400, '2021-05-14 18:03:03.000000', false, 1),
+        (24, 212, 290, 1308, '2021-07-06 19:00:57.000000', true, 5),
+        (25, 621, 855, 855, '2021-01-30 01:23:44.000000', false, 4),
+        (26, 430, 944, 1350, '2021-09-21 14:12:10.000000', false, 5),
+        (27, 809, 718, 1540, '2021-01-22 03:21:00.000000', true, 5),
+        (28, 563, 859, 1230, '2021-08-05 23:17:17.000000', true, 2),
+        (29, 479, 427, 737, '2021-06-23 22:32:36.000000', true, 4),
+        (30, 908, 893, 1068, '2021-07-18 22:09:39.000000', true, 2),
+        (31, 761, 39, 194, '2021-06-09 04:08:01.000000', false, 3),
+        (32, 309, 843, 1256, '2021-06-06 09:19:01.000000', false, 2),
+        (33, 564, 217, 1608, '2021-08-15 12:52:31.000000', false, 1),
+        (34, 925, 255, 970, '2021-07-19 21:08:13.000000', true, 2),
+        (35, 317, 498, 1860, '2021-04-06 02:29:02.000000', true, 2),
+        (36, 599, 428, 1432, '2021-09-19 13:56:44.000000', false, 5),
+        (37, 885, 58, 429, '2021-07-17 21:38:31.000000', true, 5),
+        (38, 660, 749, 1098, '2021-01-31 08:00:34.000000', true, 5),
+        (39, 923, 800, 122, '2021-04-11 09:46:43.000000', true, 5),
+        (40, 565, 25, 1142, '2021-07-02 09:33:43.000000', true, 1),
+        (41, 12, 587, 698, '2021-02-26 05:06:46.000000', false, 1),
+        (42, 162, 369, 1026, '2021-02-12 13:05:27.000000', false, 5),
+        (43, 307, 113, 1427, '2021-05-30 21:26:01.000000', false, 2),
+        (44, 844, 419, 83, '2021-05-30 16:41:21.000000', true, 5),
+        (45, 759, 766, 1209, '2021-01-31 16:49:38.000000', true, 5),
+        (46, 144, 411, 1338, '2021-04-08 03:50:18.000000', true, 2),
+        (47, 701, 441, 664, '2021-07-09 19:42:43.000000', true, 2),
+        (48, 325, 157, 770, '2021-09-09 15:52:17.000000', false, 3),
+        (49, 648, 105, 1872, '2021-03-23 05:27:23.000000', true, 2),
+        (50, 613, 177, 340, '2021-01-29 16:20:07.000000', false, 2),
+        (51, 750, 415, 1054, '2021-01-29 22:21:08.000000', false, 4),
+        (52, 7, 85, 779, '2021-06-11 03:37:16.000000', true, 2),
+        (53, 990, 94, 228, '2021-02-19 23:44:28.000000', false, 5),
+        (54, 704, 652, 131, '2021-03-22 01:35:20.000000', false, 4),
+        (55, 258, 335, 590, '2021-02-26 19:49:10.000000', false, 2),
+        (56, 978, 933, 1880, '2021-03-31 01:46:04.000000', false, 1),
+        (57, 289, 791, 724, '2021-07-01 12:37:58.000000', false, 3),
+        (58, 99, 674, 1040, '2021-05-17 20:51:29.000000', false, 5),
+        (59, 688, 151, 407, '2021-04-21 07:00:54.000000', false, 4),
+        (60, 740, 542, 171, '2021-03-04 18:17:16.000000', false, 4),
+        (61, 470, 734, 488, '2021-06-03 18:07:03.000000', true, 1),
+        (62, 838, 400, 596, '2021-07-31 06:30:33.000000', false, 4),
+        (63, 938, 429, 670, '2021-03-16 00:26:38.000000', false, 2),
+        (64, 899, 128, 135, '2021-07-10 15:54:27.000000', false, 3),
+        (65, 871, 826, 989, '2021-09-16 08:42:18.000000', false, 3),
+        (66, 471, 568, 996, '2021-01-29 04:00:06.000000', false, 2),
+        (67, 558, 554, 344, '2021-02-04 00:31:06.000000', false, 2),
+        (68, 656, 111, 1052, '2021-08-17 05:53:12.000000', true, 5),
+        (69, 589, 67, 39, '2021-05-28 14:08:38.000000', false, 2),
+        (70, 993, 769, 1742, '2021-07-18 16:19:08.000000', false, 2),
+        (71, 440, 350, 306, '2021-07-11 05:39:14.000000', true, 4),
+        (72, 436, 900, 561, '2021-08-20 13:06:01.000000', true, 1),
+        (73, 247, 296, 1357, '2021-01-04 15:15:46.000000', false, 2),
+        (74, 670, 814, 1442, '2021-02-27 16:47:00.000000', false, 5),
+        (75, 401, 309, 1638, '2021-09-18 04:50:44.000000', false, 5),
+        (76, 463, 846, 977, '2021-03-26 15:24:16.000000', true, 3),
+        (77, 638, 178, 738, '2021-05-06 04:55:41.000000', true, 3),
+        (78, 729, 718, 90, '2021-06-19 02:29:59.000000', false, 3),
+        (79, 782, 470, 448, '2021-08-04 04:43:08.000000', true, 1),
+        (80, 301, 332, 394, '2021-06-16 05:23:02.000000', false, 4),
+        (81, 442, 817, 767, '2021-03-24 23:06:16.000000', true, 5),
+        (82, 124, 647, 200, '2021-08-25 05:15:51.000000', true, 1),
+        (83, 367, 613, 400, '2021-06-10 10:56:38.000000', true, 5),
+        (84, 588, 534, 304, '2021-07-12 04:56:48.000000', true, 5),
+        (85, 135, 903, 349, '2021-07-23 06:48:34.000000', true, 2),
+        (86, 953, 169, 1599, '2021-05-15 13:14:52.000000', true, 4),
+        (87, 961, 396, 328, '2021-03-16 00:04:20.000000', false, 1),
+        (88, 4, 302, 1118, '2021-05-30 11:09:59.000000', true, 2),
+        (89, 659, 623, 380, '2021-05-04 19:19:37.000000', false, 3),
+        (90, 865, 218, 1086, '2021-07-31 01:51:42.000000', false, 5),
+        (91, 135, 625, 451, '2021-08-21 23:13:13.000000', true, 4),
+        (92, 662, 396, 402, '2021-02-15 05:37:01.000000', false, 1),
+        (93, 194, 803, 1046, '2021-09-06 17:42:56.000000', false, 2),
+        (94, 158, 967, 1393, '2021-06-14 02:40:34.000000', true, 4),
+        (95, 135, 204, 349, '2021-09-04 09:37:43.000000', true, 4),
+        (96, 570, 130, 424, '2021-02-14 12:53:27.000000', false, 2),
+        (97, 406, 105, 94, '2021-06-25 19:41:37.000000', false, 1),
+        (98, 553, 943, 1492, '2021-07-16 06:54:32.000000', true, 2),
+        (99, 945, 645, 21, '2021-05-25 10:09:32.000000', true, 1),
+        (100, 787, 11, 1636, '2021-01-30 01:38:54.000000', true, 1),
+        (101, 150, 965, 1670, '2021-07-02 14:12:35.000000', false, 2),
+        (102, 272, 239, 1771, '2021-07-16 02:15:25.000000', true, 3),
+        (103, 583, 118, 792, '2021-04-24 21:36:24.000000', false, 5),
+        (104, 819, 327, 694, '2021-02-15 07:37:24.000000', false, 1),
+        (105, 136, 824, 1091, '2021-06-27 23:23:11.000000', false, 3),
+        (106, 864, 879, 360, '2021-05-13 04:24:33.000000', true, 5),
+        (107, 784, 229, 1269, '2021-07-17 20:12:08.000000', true, 2),
+        (108, 93, 644, 474, '2021-09-29 03:35:06.000000', false, 5),
+        (109, 495, 774, 828, '2021-06-23 16:54:44.000000', false, 5),
+        (110, 813, 797, 366, '2021-03-30 02:33:32.000000', true, 1),
+        (111, 913, 768, 1696, '2021-06-03 23:33:04.000000', false, 5),
+        (112, 363, 611, 163, '2021-01-29 14:55:45.000000', true, 4),
+        (113, 643, 149, 1094, '2021-09-11 02:12:54.000000', false, 5),
+        (114, 699, 614, 293, '2021-05-02 17:23:25.000000', false, 3),
+        (115, 609, 111, 1871, '2021-08-30 19:16:38.000000', true, 1),
+        (116, 896, 147, 213, '2021-07-31 11:47:56.000000', false, 1),
+        (117, 532, 984, 1434, '2021-08-04 19:11:09.000000', true, 5),
+        (118, 269, 968, 1443, '2021-08-24 10:59:11.000000', false, 3),
+        (119, 2, 511, 930, '2021-02-09 01:22:06.000000', false, 1),
+        (120, 479, 586, 737, '2021-09-01 07:24:59.000000', false, 2),
+        (121, 185, 837, 1674, '2021-05-14 11:08:56.000000', false, 5),
+        (122, 975, 761, 1659, '2021-01-04 12:34:49.000000', false, 5),
+        (123, 525, 178, 396, '2021-06-11 15:38:13.000000', false, 5),
+        (124, 312, 643, 813, '2021-03-17 16:37:47.000000', false, 4),
+        (125, 212, 542, 1308, '2021-02-12 05:12:28.000000', false, 2),
+        (126, 658, 647, 143, '2021-05-01 06:36:13.000000', false, 3),
+        (127, 389, 414, 431, '2021-03-12 13:55:15.000000', true, 1),
+        (128, 202, 203, 1030, '2021-03-08 10:04:05.000000', false, 3),
+        (129, 991, 133, 568, '2021-02-28 16:28:19.000000', true, 2),
+        (130, 165, 838, 1992, '2021-01-01 20:48:15.000000', true, 3),
+        (131, 878, 145, 604, '2021-02-10 11:56:03.000000', false, 4),
+        (132, 558, 431, 276, '2021-09-01 16:28:35.000000', false, 5),
+        (133, 738, 468, 251, '2021-01-22 23:14:09.000000', false, 5),
+        (134, 323, 353, 1032, '2021-05-09 07:21:40.000000', false, 3),
+        (135, 647, 413, 241, '2021-05-29 06:47:31.000000', false, 1),
+        (136, 774, 693, 1349, '2021-08-23 09:30:08.000000', true, 2),
+        (137, 132, 743, 1282, '2021-06-24 00:47:25.000000', true, 2),
+        (138, 923, 475, 1985, '2021-08-03 10:12:38.000000', true, 3),
+        (139, 574, 701, 1095, '2021-08-02 15:14:17.000000', false, 2),
+        (140, 751, 751, 942, '2021-01-02 07:55:47.000000', false, 2),
+        (141, 548, 603, 854, '2021-07-07 23:30:29.000000', true, 4),
+        (142, 243, 245, 1370, '2021-04-26 07:39:01.000000', true, 1),
+        (143, 370, 911, 220, '2021-09-05 16:04:02.000000', true, 4),
+        (144, 934, 594, 1640, '2021-06-05 14:14:47.000000', true, 5),
+        (145, 364, 952, 201, '2021-01-19 23:33:51.000000', true, 2),
+        (146, 69, 784, 1463, '2021-06-22 09:51:22.000000', true, 1),
+        (147, 791, 572, 1250, '2021-05-02 03:44:05.000000', true, 4),
+        (148, 595, 340, 208, '2021-07-13 05:06:21.000000', false, 4),
+        (149, 558, 356, 1061, '2021-05-04 11:02:00.000000', true, 2),
+        (150, 400, 508, 1887, '2021-04-26 08:15:19.000000', false, 1),
+        (151, 687, 296, 1900, '2021-01-09 18:16:34.000000', true, 1),
+        (152, 179, 155, 104, '2021-09-18 04:39:32.000000', true, 1),
+        (153, 724, 347, 197, '2021-07-24 12:41:08.000000', false, 5),
+        (154, 896, 216, 213, '2021-08-29 16:11:28.000000', true, 2),
+        (155, 525, 837, 387, '2021-01-27 22:48:56.000000', false, 1),
+        (156, 615, 833, 138, '2021-05-19 08:03:36.000000', true, 1),
+        (157, 974, 934, 702, '2021-04-14 22:04:50.000000', false, 1),
+        (158, 351, 627, 103, '2021-06-15 09:08:11.000000', true, 3),
+        (159, 782, 653, 448, '2021-07-10 18:11:24.000000', false, 5),
+        (160, 850, 55, 353, '2021-01-06 13:38:25.000000', true, 5),
+        (161, 354, 409, 465, '2021-04-17 02:06:29.000000', false, 3),
+        (162, 442, 969, 767, '2021-02-12 07:48:03.000000', false, 2),
+        (163, 154, 158, 1651, '2021-05-09 19:39:00.000000', true, 2),
+        (164, 827, 396, 3, '2021-08-03 09:32:39.000000', false, 1),
+        (165, 723, 613, 1162, '2021-01-28 07:45:10.000000', false, 4),
+        (166, 530, 459, 1383, '2021-09-06 05:28:07.000000', true, 3),
+        (167, 593, 67, 631, '2021-02-15 07:16:45.000000', true, 4),
+        (168, 970, 447, 1685, '2021-07-26 16:23:18.000000', false, 5),
+        (169, 297, 15, 731, '2021-07-23 22:28:55.000000', false, 2),
+        (170, 678, 920, 830, '2021-01-15 04:23:47.000000', true, 3),
+        (171, 890, 178, 512, '2021-04-23 05:57:43.000000', true, 2),
+        (172, 992, 625, 860, '2021-05-03 23:01:56.000000', true, 4),
+        (173, 103, 247, 1274, '2021-03-15 02:05:04.000000', true, 5),
+        (174, 393, 432, 533, '2021-07-12 02:07:00.000000', true, 2),
+        (175, 825, 715, 1862, '2021-06-04 15:48:51.000000', false, 2),
+        (176, 712, 984, 41, '2021-05-28 02:50:31.000000', false, 5),
+        (177, 987, 29, 1774, '2021-03-19 00:34:28.000000', false, 2),
+        (178, 406, 326, 1934, '2021-04-19 10:32:21.000000', false, 2),
+        (179, 706, 437, 1851, '2021-01-18 03:37:47.000000', true, 4),
+        (180, 362, 142, 695, '2021-05-01 01:22:28.000000', false, 3),
+        (181, 813, 973, 599, '2021-02-19 07:11:25.000000', true, 5),
+        (182, 937, 91, 742, '2021-02-13 19:05:23.000000', false, 3),
+        (183, 439, 630, 1013, '2021-09-27 05:46:17.000000', true, 1),
+        (184, 435, 583, 1175, '2021-05-22 21:09:36.000000', false, 3),
+        (185, 24, 218, 929, '2021-09-09 14:11:09.000000', false, 1),
+        (186, 774, 897, 321, '2021-09-23 18:10:37.000000', false, 1),
+        (187, 298, 598, 1169, '2021-09-14 12:49:08.000000', false, 4),
+        (188, 41, 513, 708, '2021-05-23 10:10:46.000000', true, 5),
+        (189, 222, 752, 1751, '2021-01-21 00:25:28.000000', false, 2),
+        (190, 853, 963, 1224, '2021-02-07 03:44:04.000000', true, 4),
+        (191, 914, 901, 1648, '2021-08-11 11:25:38.000000', true, 3),
+        (192, 233, 903, 1950, '2021-08-30 10:02:54.000000', true, 4),
+        (193, 320, 473, 780, '2021-02-01 09:09:09.000000', true, 1),
+        (194, 90, 961, 1079, '2021-07-26 15:06:46.000000', true, 1),
+        (195, 676, 824, 1981, '2021-08-02 14:22:45.000000', true, 2),
+        (196, 479, 487, 737, '2021-09-26 01:10:14.000000', false, 5),
+        (197, 665, 537, 269, '2021-08-10 20:01:25.000000', false, 3),
+        (198, 307, 887, 1427, '2021-09-16 13:56:15.000000', false, 1),
+        (199, 375, 878, 591, '2021-04-29 22:47:55.000000', true, 5),
+        (200, 94, 983, 1550, '2021-03-22 20:07:32.000000', false, 3),
+        (201, 980, 821, 1429, '2021-08-05 18:57:43.000000', true, 1),
+        (202, 301, 893, 394, '2021-04-21 22:19:03.000000', true, 4),
+        (203, 155, 8, 743, '2021-04-12 13:21:00.000000', true, 2),
+        (204, 390, 311, 1493, '2021-09-11 11:57:33.000000', false, 1),
+        (205, 254, 984, 1019, '2021-03-06 02:36:44.000000', true, 1),
+        (206, 307, 554, 1427, '2021-09-26 19:44:47.000000', true, 5),
+        (207, 59, 817, 1585, '2021-05-17 17:54:46.000000', true, 1),
+        (208, 778, 189, 1779, '2021-01-10 23:53:11.000000', true, 2),
+        (209, 94, 576, 1671, '2021-05-31 06:46:21.000000', true, 4),
+        (210, 34, 859, 635, '2021-08-31 06:59:45.000000', true, 3),
+        (211, 761, 277, 194, '2021-04-16 00:33:54.000000', true, 1),
+        (212, 426, 760, 88, '2021-06-04 20:42:22.000000', true, 5),
+        (213, 329, 858, 1328, '2021-08-09 12:17:44.000000', false, 3),
+        (214, 63, 986, 412, '2021-04-11 06:00:13.000000', true, 5),
+        (215, 899, 240, 1448, '2021-06-08 11:37:18.000000', false, 5),
+        (216, 124, 235, 1650, '2021-02-07 06:58:35.000000', false, 4),
+        (217, 187, 213, 334, '2021-04-21 01:51:05.000000', false, 5),
+        (218, 510, 770, 1128, '2021-07-03 02:45:30.000000', false, 1),
+        (219, 822, 643, 998, '2021-03-22 01:25:38.000000', true, 1),
+        (220, 362, 423, 695, '2021-05-09 06:38:32.000000', false, 4),
+        (221, 888, 800, 1246, '2021-03-26 10:56:35.000000', true, 5),
+        (222, 868, 407, 1606, '2021-09-26 23:20:54.000000', false, 2),
+        (223, 428, 775, 1756, '2021-08-03 14:01:56.000000', true, 5),
+        (224, 441, 300, 760, '2021-04-18 05:23:23.000000', false, 5),
+        (225, 952, 579, 335, '2021-05-19 22:24:46.000000', true, 4),
+        (226, 691, 845, 385, '2021-05-17 16:25:49.000000', true, 3),
+        (227, 747, 402, 1022, '2021-04-05 05:24:29.000000', false, 2),
+        (228, 691, 803, 385, '2021-09-19 08:26:45.000000', false, 4),
+        (229, 376, 893, 1065, '2021-07-24 16:34:50.000000', true, 2),
+        (230, 525, 947, 396, '2021-02-13 21:14:12.000000', true, 3),
+        (231, 540, 95, 1790, '2021-03-18 20:14:30.000000', false, 3),
+        (232, 113, 602, 616, '2021-05-24 16:02:56.000000', true, 5),
+        (233, 212, 421, 1308, '2021-02-15 13:47:10.000000', false, 4),
+        (234, 988, 992, 480, '2021-05-24 03:55:57.000000', true, 4),
+        (235, 600, 498, 1694, '2021-09-20 17:48:15.000000', true, 3),
+        (236, 348, 177, 652, '2021-02-16 23:27:56.000000', true, 2),
+        (237, 844, 847, 83, '2021-01-08 21:32:34.000000', false, 5),
+        (238, 636, 16, 227, '2021-06-01 10:54:50.000000', false, 3),
+        (239, 892, 477, 1582, '2021-09-23 09:10:49.000000', true, 3),
+        (240, 72, 672, 1865, '2021-07-11 12:15:56.000000', true, 3),
+        (241, 767, 22, 586, '2021-03-24 20:08:01.000000', true, 5),
+        (242, 449, 325, 589, '2021-01-29 02:40:40.000000', false, 3),
+        (243, 270, 977, 1499, '2021-01-03 13:13:32.000000', false, 2),
+        (244, 318, 952, 1301, '2021-03-03 07:25:34.000000', true, 1),
+        (245, 448, 105, 484, '2021-08-24 14:23:06.000000', true, 3),
+        (246, 26, 506, 558, '2021-04-07 20:25:38.000000', true, 2),
+        (247, 265, 524, 914, '2021-04-07 23:06:22.000000', false, 3),
+        (248, 735, 520, 1861, '2021-09-14 21:22:17.000000', true, 5),
+        (249, 705, 356, 1603, '2021-04-20 21:54:56.000000', true, 3),
+        (250, 11, 192, 147, '2021-09-12 00:44:13.000000', true, 3),
+        (251, 497, 675, 1964, '2021-06-20 10:49:38.000000', true, 3),
+        (252, 877, 586, 1869, '2021-07-03 21:36:27.000000', true, 1),
+        (253, 77, 952, 857, '2021-02-15 19:11:30.000000', false, 5),
+        (254, 271, 487, 426, '2021-02-15 03:31:25.000000', true, 2),
+        (255, 619, 892, 1906, '2021-08-23 08:14:56.000000', true, 2),
+        (256, 419, 582, 1740, '2021-04-06 23:28:47.000000', false, 3),
+        (257, 437, 973, 1043, '2021-02-03 12:40:58.000000', true, 2),
+        (258, 992, 355, 369, '2021-01-19 21:05:35.000000', true, 4),
+        (259, 558, 136, 344, '2021-08-23 02:13:37.000000', true, 4),
+        (260, 458, 536, 516, '2021-02-25 15:21:02.000000', false, 4),
+        (261, 329, 396, 1328, '2021-05-08 18:37:00.000000', false, 2),
+        (262, 774, 694, 836, '2021-09-16 00:23:28.000000', true, 2),
+        (263, 167, 878, 1236, '2021-04-24 13:09:37.000000', true, 4),
+        (264, 139, 4, 583, '2021-02-12 06:54:13.000000', true, 3),
+        (265, 467, 775, 557, '2021-04-29 10:42:09.000000', true, 5),
+        (266, 296, 721, 1464, '2021-05-29 04:11:25.000000', false, 5),
+        (267, 12, 293, 698, '2021-09-27 08:52:21.000000', true, 4),
+        (268, 708, 281, 618, '2021-07-31 01:32:41.000000', true, 4),
+        (269, 5, 157, 1017, '2021-03-18 05:37:19.000000', false, 5),
+        (270, 684, 756, 493, '2021-06-05 20:00:43.000000', false, 2),
+        (271, 460, 601, 943, '2021-01-07 22:32:20.000000', false, 4),
+        (272, 891, 445, 959, '2021-08-27 15:20:48.000000', true, 2),
+        (273, 299, 702, 1461, '2021-09-29 07:22:37.000000', true, 3),
+        (274, 286, 949, 363, '2021-07-21 09:12:38.000000', false, 1),
+        (275, 582, 58, 755, '2021-08-10 05:40:37.000000', false, 1),
+        (276, 883, 462, 156, '2021-04-02 01:49:29.000000', false, 4),
+        (277, 297, 697, 731, '2021-09-28 04:59:00.000000', true, 2),
+        (278, 887, 953, 821, '2021-06-16 11:49:04.000000', true, 2),
+        (279, 113, 546, 101, '2021-04-06 04:27:19.000000', false, 3),
+        (280, 138, 761, 1517, '2021-05-06 22:41:54.000000', false, 3),
+        (281, 98, 427, 1115, '2021-05-11 16:14:59.000000', false, 4),
+        (282, 618, 818, 245, '2021-02-05 14:21:16.000000', false, 1),
+        (283, 337, 36, 1343, '2021-09-17 01:21:02.000000', false, 4),
+        (284, 396, 769, 765, '2021-01-01 12:10:49.000000', true, 4),
+        (285, 675, 386, 595, '2021-06-18 04:17:49.000000', false, 2),
+        (286, 128, 239, 415, '2021-01-22 22:10:18.000000', true, 5),
+        (287, 912, 473, 1161, '2021-05-12 20:41:43.000000', true, 5),
+        (288, 450, 4, 1366, '2021-01-26 16:50:24.000000', true, 2),
+        (289, 664, 943, 433, '2021-08-01 02:49:00.000000', false, 4),
+        (290, 205, 626, 1247, '2021-09-19 23:05:53.000000', false, 5),
+        (291, 918, 132, 1633, '2021-01-22 12:04:33.000000', false, 5),
+        (292, 656, 471, 1792, '2021-09-08 09:33:13.000000', true, 5),
+        (293, 758, 541, 217, '2021-02-03 18:10:19.000000', true, 5),
+        (294, 415, 55, 1358, '2021-08-28 13:57:04.000000', false, 1),
+        (295, 299, 967, 1461, '2021-08-16 05:49:39.000000', true, 4),
+        (296, 277, 932, 983, '2021-03-27 16:28:38.000000', false, 1),
+        (297, 28, 57, 529, '2021-02-26 18:08:17.000000', true, 2),
+        (298, 471, 850, 1721, '2021-04-02 17:05:53.000000', false, 4),
+        (299, 458, 32, 885, '2021-01-01 06:10:01.000000', true, 5),
+        (300, 245, 174, 835, '2021-08-12 23:41:51.000000', false, 4),
+        (301, 610, 634, 877, '2021-09-21 19:12:33.000000', true, 1),
+        (302, 243, 715, 1006, '2021-06-12 18:24:17.000000', true, 4),
+        (303, 926, 215, 305, '2021-06-27 00:18:59.000000', false, 1),
+        (304, 514, 169, 997, '2021-07-16 11:15:27.000000', false, 3),
+        (305, 417, 592, 457, '2021-04-03 10:47:11.000000', true, 1),
+        (306, 155, 637, 743, '2021-04-10 12:37:18.000000', true, 1),
+        (307, 657, 98, 829, '2021-03-09 19:10:02.000000', false, 2),
+        (308, 178, 501, 1519, '2021-05-20 22:38:15.000000', false, 1),
+        (309, 378, 848, 1777, '2021-06-28 06:39:33.000000', true, 1),
+        (310, 892, 830, 1582, '2021-09-23 21:56:30.000000', false, 4),
+        (311, 358, 703, 1170, '2021-07-04 09:49:50.000000', true, 1),
+        (312, 138, 500, 1517, '2021-06-11 17:55:32.000000', false, 5),
+        (313, 334, 574, 284, '2021-09-11 18:36:55.000000', false, 5),
+        (314, 661, 221, 870, '2021-04-26 18:05:30.000000', false, 3),
+        (315, 326, 60, 274, '2021-08-04 13:32:14.000000', false, 3),
+        (316, 406, 29, 1934, '2021-09-14 22:56:05.000000', false, 5),
+        (317, 154, 523, 1523, '2021-02-27 12:47:09.000000', false, 3),
+        (318, 735, 627, 1861, '2021-05-07 06:14:34.000000', false, 2),
+        (319, 755, 924, 1532, '2021-09-13 07:03:34.000000', false, 3),
+        (320, 669, 466, 270, '2021-02-21 04:56:15.000000', false, 4),
+        (321, 98, 955, 1115, '2021-09-08 01:32:04.000000', false, 4),
+        (322, 866, 665, 1051, '2021-07-06 20:26:44.000000', true, 3),
+        (323, 651, 858, 1980, '2021-08-08 17:05:32.000000', false, 1),
+        (324, 780, 392, 195, '2021-06-03 17:13:15.000000', true, 3),
+        (325, 328, 947, 598, '2021-01-08 14:37:07.000000', false, 4),
+        (326, 637, 575, 432, '2021-09-30 17:25:03.000000', true, 4),
+        (327, 643, 766, 1094, '2021-03-13 20:28:53.000000', false, 1),
+        (328, 173, 238, 1973, '2021-06-10 11:05:49.000000', false, 3),
+        (329, 757, 951, 1855, '2021-06-21 20:08:24.000000', false, 1),
+        (330, 352, 191, 24, '2021-07-25 21:30:48.000000', true, 5),
+        (331, 897, 924, 789, '2021-07-16 17:11:00.000000', false, 5),
+        (332, 647, 494, 241, '2021-06-07 15:51:42.000000', true, 3),
+        (333, 518, 21, 1431, '2021-08-10 11:43:00.000000', true, 3),
+        (334, 419, 713, 1740, '2021-01-20 02:21:19.000000', false, 1),
+        (335, 137, 3, 1234, '2021-05-31 06:00:53.000000', false, 2),
+        (336, 424, 851, 234, '2021-01-01 05:28:09.000000', false, 1),
+        (337, 58, 904, 193, '2021-03-03 17:02:27.000000', true, 1),
+        (338, 985, 513, 658, '2021-03-02 13:28:21.000000', false, 4),
+        (339, 748, 431, 771, '2021-04-12 15:51:40.000000', true, 4),
+        (340, 315, 187, 1991, '2021-01-21 04:44:52.000000', true, 4),
+        (341, 422, 891, 1600, '2021-03-01 08:29:21.000000', false, 4),
+        (342, 734, 615, 1711, '2021-01-25 01:41:04.000000', true, 1),
+        (343, 873, 11, 477, '2021-06-09 01:23:40.000000', false, 3),
+        (344, 430, 390, 660, '2021-06-17 17:12:37.000000', false, 5),
+        (345, 329, 40, 1036, '2021-07-09 15:19:23.000000', false, 3),
+        (346, 284, 401, 1167, '2021-01-19 13:02:32.000000', false, 4),
+        (347, 738, 156, 1529, '2021-01-14 04:06:46.000000', true, 3),
+        (348, 158, 636, 1393, '2021-02-24 14:53:03.000000', true, 3),
+        (349, 168, 643, 1454, '2021-09-01 17:13:41.000000', true, 1),
+        (350, 910, 78, 806, '2021-04-21 14:42:24.000000', true, 2),
+        (351, 281, 422, 268, '2021-08-18 17:08:50.000000', true, 3),
+        (352, 881, 398, 248, '2021-05-13 02:16:34.000000', true, 5),
+        (353, 440, 192, 306, '2021-03-11 09:24:46.000000', true, 5),
+        (354, 430, 729, 660, '2021-06-05 04:39:32.000000', false, 1),
+        (355, 26, 936, 558, '2021-04-29 13:35:49.000000', true, 1),
+        (356, 740, 24, 171, '2021-02-18 06:39:59.000000', true, 5),
+        (357, 558, 621, 344, '2021-01-03 20:23:44.000000', false, 2),
+        (358, 82, 383, 53, '2021-08-22 03:24:55.000000', true, 1),
+        (359, 736, 748, 1870, '2021-06-15 10:49:27.000000', true, 4),
+        (360, 704, 83, 131, '2021-06-01 17:54:06.000000', true, 2),
+        (361, 758, 575, 217, '2021-01-14 06:49:14.000000', false, 5),
+        (362, 325, 315, 770, '2021-09-02 23:01:11.000000', true, 2),
+        (363, 431, 788, 1939, '2021-05-15 19:57:29.000000', true, 3),
+        (364, 794, 185, 1793, '2021-06-20 01:28:38.000000', true, 4),
+        (365, 912, 293, 1161, '2021-06-26 05:47:18.000000', false, 5),
+        (366, 637, 443, 432, '2021-06-28 22:59:48.000000', true, 1),
+        (367, 416, 659, 657, '2021-07-13 04:59:21.000000', false, 4),
+        (368, 264, 273, 1394, '2021-04-14 22:42:57.000000', false, 3),
+        (369, 707, 527, 318, '2021-02-04 02:11:18.000000', false, 5),
+        (370, 55, 783, 918, '2021-09-17 21:13:40.000000', true, 5),
+        (371, 883, 71, 1837, '2021-02-02 23:21:24.000000', false, 1),
+        (372, 886, 56, 1844, '2021-02-03 16:35:55.000000', true, 4),
+        (373, 220, 190, 1669, '2021-04-29 13:46:45.000000', false, 4),
+        (374, 401, 530, 775, '2021-03-24 14:27:54.000000', true, 1),
+        (375, 753, 383, 1727, '2021-07-16 10:58:57.000000', false, 3),
+        (376, 38, 303, 1188, '2021-04-03 09:24:50.000000', false, 4),
+        (377, 448, 408, 1471, '2021-06-13 05:42:36.000000', true, 1),
+        (378, 100, 56, 1642, '2021-05-07 02:02:21.000000', false, 4),
+        (379, 540, 193, 1790, '2021-09-07 16:47:35.000000', true, 5),
+        (380, 487, 532, 531, '2021-07-07 02:38:41.000000', true, 1),
+        (381, 449, 486, 589, '2021-09-22 14:27:46.000000', true, 5),
+        (382, 795, 689, 393, '2021-09-11 22:53:03.000000', false, 3),
+        (383, 58, 488, 1723, '2021-05-28 07:37:48.000000', true, 4),
+        (384, 978, 595, 1835, '2021-09-12 03:02:27.000000', true, 2),
+        (385, 132, 496, 1282, '2021-09-14 18:27:38.000000', false, 3),
+        (386, 79, 478, 1732, '2021-08-24 13:51:30.000000', false, 5),
+        (387, 21, 909, 700, '2021-01-21 23:02:41.000000', true, 4),
+        (388, 8, 328, 1530, '2021-04-22 00:47:04.000000', true, 1),
+        (389, 400, 712, 1887, '2021-01-31 20:39:22.000000', false, 5),
+        (390, 432, 305, 1874, '2021-05-01 05:06:35.000000', false, 3),
+        (391, 530, 527, 405, '2021-07-29 23:21:52.000000', false, 1),
+        (392, 574, 873, 1095, '2021-07-23 15:39:38.000000', true, 1),
+        (393, 954, 930, 504, '2021-06-28 06:56:01.000000', false, 2),
+        (394, 508, 904, 1915, '2021-09-26 19:32:26.000000', true, 5),
+        (395, 390, 215, 1493, '2021-08-30 07:11:03.000000', false, 2),
+        (396, 600, 942, 1627, '2021-04-02 20:13:30.000000', true, 1),
+        (397, 842, 92, 434, '2021-05-13 00:47:41.000000', false, 3),
+        (398, 155, 934, 973, '2021-01-04 04:44:24.000000', false, 3),
+        (399, 561, 307, 60, '2021-01-02 23:59:29.000000', true, 2),
+        (400, 664, 367, 433, '2021-03-07 20:01:45.000000', true, 2),
+        (401, 891, 407, 959, '2021-04-24 07:14:29.000000', true, 4),
+        (402, 629, 582, 946, '2021-01-10 23:48:26.000000', false, 3),
+        (403, 150, 786, 1498, '2021-08-28 16:40:57.000000', true, 3),
+        (404, 962, 685, 78, '2021-07-15 13:44:17.000000', false, 2),
+        (405, 252, 766, 359, '2021-06-14 15:54:30.000000', false, 4),
+        (406, 958, 677, 766, '2021-07-15 02:37:01.000000', true, 1),
+        (407, 944, 570, 1923, '2021-06-12 04:32:12.000000', false, 2),
+        (408, 818, 704, 1206, '2021-08-03 21:07:41.000000', false, 1),
+        (409, 859, 434, 1200, '2021-08-24 15:04:39.000000', false, 3),
+        (410, 303, 263, 900, '2021-02-03 17:56:41.000000', false, 2),
+        (411, 130, 864, 1455, '2021-06-18 15:46:24.000000', false, 4),
+        (412, 72, 354, 1865, '2021-04-14 12:08:59.000000', true, 1),
+        (413, 148, 546, 1405, '2021-08-06 01:31:10.000000', true, 1),
+        (414, 859, 697, 1200, '2021-04-19 17:36:04.000000', false, 2),
+        (415, 331, 33, 1811, '2021-07-18 15:59:18.000000', false, 2),
+        (416, 540, 33, 1790, '2021-01-25 15:21:31.000000', true, 4),
+        (417, 63, 207, 412, '2021-08-27 18:52:54.000000', false, 2),
+        (418, 987, 598, 1774, '2021-07-14 13:00:06.000000', true, 3),
+        (419, 17, 348, 1318, '2021-06-06 14:36:04.000000', false, 2),
+        (420, 496, 723, 1353, '2021-05-02 00:09:26.000000', false, 5),
+        (421, 60, 990, 343, '2021-07-02 18:07:19.000000', false, 1),
+        (422, 462, 471, 1158, '2021-06-18 18:28:11.000000', true, 4),
+        (423, 551, 192, 1299, '2021-02-09 22:01:19.000000', true, 2),
+        (424, 342, 893, 20, '2021-03-16 06:04:22.000000', true, 3),
+        (425, 998, 790, 170, '2021-02-08 10:16:37.000000', false, 3),
+        (426, 287, 282, 1557, '2021-05-08 21:41:57.000000', true, 4),
+        (427, 723, 870, 1162, '2021-07-30 03:57:55.000000', true, 1),
+        (428, 225, 376, 1581, '2021-08-20 14:49:34.000000', false, 5),
+        (429, 773, 718, 979, '2021-08-22 03:45:16.000000', true, 3),
+        (430, 349, 894, 614, '2021-02-01 05:48:40.000000', true, 1),
+        (431, 511, 175, 916, '2021-08-24 02:52:58.000000', false, 4),
+        (432, 741, 2, 44, '2021-07-18 20:22:49.000000', true, 5),
+        (433, 209, 24, 1216, '2021-05-28 10:01:13.000000', false, 1),
+        (434, 134, 477, 478, '2021-07-05 12:38:57.000000', false, 1),
+        (435, 35, 956, 154, '2021-07-05 16:00:17.000000', false, 3),
+        (436, 269, 396, 1363, '2021-07-06 08:34:54.000000', true, 1),
+        (437, 943, 202, 1039, '2021-06-25 07:36:12.000000', true, 2),
+        (438, 788, 103, 628, '2021-01-20 03:25:48.000000', false, 4),
+        (439, 979, 228, 1141, '2021-08-06 06:35:12.000000', true, 1),
+        (440, 30, 778, 1081, '2021-08-14 07:31:43.000000', true, 3),
+        (441, 844, 927, 83, '2021-06-02 08:55:09.000000', true, 5),
+        (442, 548, 71, 854, '2021-09-05 19:01:30.000000', false, 2),
+        (443, 344, 772, 1705, '2021-01-25 09:49:17.000000', false, 2),
+        (444, 748, 893, 966, '2021-06-27 02:07:01.000000', true, 1),
+        (445, 774, 162, 321, '2021-02-18 07:51:37.000000', false, 3),
+        (446, 71, 531, 1787, '2021-01-01 22:08:27.000000', true, 3),
+        (447, 252, 736, 359, '2021-07-09 14:55:52.000000', true, 4),
+        (448, 359, 324, 496, '2021-04-13 17:56:09.000000', true, 1),
+        (449, 546, 848, 592, '2021-09-04 14:22:42.000000', true, 3),
+        (450, 668, 478, 785, '2021-06-02 20:05:45.000000', true, 1),
+        (451, 49, 692, 9, '2021-09-13 08:05:47.000000', true, 5),
+        (452, 271, 846, 426, '2021-07-28 13:42:45.000000', false, 3),
+        (453, 442, 908, 767, '2021-09-13 21:09:58.000000', true, 3),
+        (454, 854, 645, 1478, '2021-02-25 00:39:42.000000', false, 1),
+        (455, 372, 962, 1624, '2021-05-17 07:11:10.000000', true, 3),
+        (456, 257, 910, 336, '2021-07-21 12:44:12.000000', false, 1),
+        (457, 201, 808, 1808, '2021-01-17 07:04:15.000000', false, 2),
+        (458, 664, 90, 433, '2021-07-03 22:09:57.000000', false, 3),
+        (459, 518, 157, 1431, '2021-05-11 02:21:04.000000', false, 5),
+        (460, 65, 774, 1323, '2021-05-26 08:48:52.000000', true, 5),
+        (461, 784, 295, 1269, '2021-01-19 08:27:05.000000', false, 5),
+        (462, 476, 564, 798, '2021-05-02 12:07:36.000000', false, 5),
+        (463, 376, 353, 1065, '2021-05-03 20:44:53.000000', false, 1),
+        (464, 444, 463, 146, '2021-01-19 05:54:22.000000', true, 3),
+        (465, 368, 103, 144, '2021-05-20 07:10:53.000000', true, 1),
+        (466, 235, 141, 1504, '2021-01-03 23:08:51.000000', true, 4),
+        (467, 923, 695, 1985, '2021-01-19 02:14:28.000000', true, 4),
+        (468, 108, 271, 1395, '2021-05-05 01:46:23.000000', false, 4),
+        (469, 495, 229, 828, '2021-02-21 09:18:19.000000', true, 3),
+        (470, 359, 198, 496, '2021-03-03 15:21:18.000000', false, 5),
+        (471, 484, 973, 1626, '2021-06-25 05:10:45.000000', false, 3),
+        (472, 918, 663, 1193, '2021-05-24 23:44:17.000000', false, 4),
+        (473, 658, 662, 143, '2021-03-14 07:31:37.000000', true, 4),
+        (474, 177, 70, 1539, '2021-04-23 16:34:32.000000', false, 3),
+        (475, 300, 887, 1108, '2021-04-25 14:46:53.000000', true, 1),
+        (476, 668, 693, 296, '2021-06-13 18:26:39.000000', true, 3),
+        (477, 321, 840, 1510, '2021-02-08 00:57:31.000000', true, 5),
+        (478, 537, 794, 1265, '2021-05-12 05:35:54.000000', false, 1),
+        (479, 714, 461, 1058, '2021-03-17 05:20:38.000000', true, 3),
+        (480, 33, 427, 74, '2021-01-10 21:40:22.000000', false, 4),
+        (481, 6, 293, 64, '2021-09-06 03:21:36.000000', false, 1),
+        (482, 90, 243, 1079, '2021-06-28 01:22:06.000000', true, 2),
+        (483, 249, 309, 50, '2021-09-05 19:18:44.000000', false, 3),
+        (484, 537, 182, 1265, '2021-04-02 17:05:32.000000', false, 2),
+        (485, 558, 146, 344, '2021-08-15 14:15:33.000000', true, 1),
+        (486, 180, 76, 120, '2021-03-23 20:17:11.000000', true, 1),
+        (487, 531, 435, 1160, '2021-09-20 02:11:56.000000', true, 2),
+        (488, 443, 361, 1922, '2021-02-10 01:59:00.000000', true, 3),
+        (489, 310, 457, 1680, '2021-08-23 14:19:46.000000', true, 3),
+        (490, 620, 335, 832, '2021-01-22 09:36:25.000000', true, 1),
+        (491, 128, 158, 1114, '2021-04-03 09:25:56.000000', false, 4),
+        (492, 624, 196, 1335, '2021-01-21 06:42:00.000000', false, 5),
+        (493, 648, 764, 1872, '2021-02-16 15:31:35.000000', true, 5),
+        (494, 587, 307, 308, '2021-06-22 10:01:38.000000', true, 5),
+        (495, 598, 953, 165, '2021-02-11 20:13:47.000000', false, 3),
+        (496, 567, 933, 1237, '2021-03-23 06:54:57.000000', true, 3),
+        (497, 2, 690, 930, '2021-04-11 08:44:15.000000', true, 4),
+        (498, 753, 352, 1727, '2021-04-19 19:59:22.000000', false, 2),
+        (499, 208, 110, 1646, '2021-08-04 09:42:28.000000', true, 3),
+        (500, 992, 980, 860, '2021-01-18 09:52:08.000000', false, 5),
+        (501, 744, 222, 1336, '2021-03-30 06:49:49.000000', false, 1),
+        (502, 375, 914, 591, '2021-04-22 07:23:28.000000', false, 4),
+        (503, 88, 414, 71, '2021-04-05 12:57:18.000000', true, 5),
+        (504, 855, 537, 500, '2021-09-28 13:22:55.000000', true, 3),
+        (505, 962, 477, 78, '2021-07-24 01:30:56.000000', true, 5),
+        (506, 73, 487, 681, '2021-04-09 05:15:06.000000', true, 5),
+        (507, 971, 787, 691, '2021-06-04 09:05:37.000000', false, 5),
+        (508, 698, 758, 316, '2021-09-25 22:58:35.000000', false, 5),
+        (509, 479, 635, 737, '2021-09-24 16:57:51.000000', true, 5),
+        (510, 358, 706, 1460, '2021-05-04 11:50:55.000000', true, 1),
+        (511, 569, 846, 730, '2021-03-30 21:11:45.000000', true, 3),
+        (512, 948, 395, 901, '2021-03-08 01:42:50.000000', false, 4),
+        (513, 848, 102, 1588, '2021-08-11 07:23:51.000000', false, 3),
+        (514, 631, 653, 1907, '2021-03-18 01:02:27.000000', false, 2),
+        (515, 131, 152, 354, '2021-06-03 07:24:23.000000', true, 1),
+        (516, 922, 795, 525, '2021-09-08 09:36:59.000000', true, 5),
+        (517, 385, 858, 63, '2021-07-17 06:21:58.000000', false, 2),
+        (518, 796, 222, 153, '2021-04-25 01:50:53.000000', false, 5),
+        (519, 971, 71, 691, '2021-09-03 11:18:55.000000', true, 2),
+        (520, 200, 544, 753, '2021-03-31 02:02:58.000000', false, 2),
+        (521, 741, 825, 44, '2021-02-21 21:45:00.000000', false, 2),
+        (522, 922, 559, 525, '2021-06-19 17:25:41.000000', false, 4),
+        (523, 546, 557, 1853, '2021-06-12 05:09:00.000000', true, 3),
+        (524, 860, 222, 1482, '2021-01-27 17:05:26.000000', true, 5),
+        (525, 955, 93, 1652, '2021-08-14 01:59:12.000000', false, 5),
+        (526, 701, 915, 664, '2021-07-09 17:00:31.000000', false, 5),
+        (527, 901, 850, 594, '2021-03-21 04:44:25.000000', true, 5),
+        (528, 217, 839, 808, '2021-06-06 05:40:59.000000', true, 4),
+        (529, 546, 213, 592, '2021-06-07 15:42:55.000000', false, 2),
+        (530, 988, 682, 480, '2021-02-11 04:37:08.000000', true, 3),
+        (531, 821, 113, 1112, '2021-09-20 11:06:39.000000', false, 4),
+        (532, 781, 438, 150, '2021-02-16 11:17:25.000000', true, 3),
+        (533, 41, 350, 708, '2021-02-26 08:06:35.000000', false, 1),
+        (534, 413, 646, 1568, '2021-07-30 03:43:06.000000', true, 4),
+        (535, 532, 790, 1434, '2021-01-26 02:03:46.000000', true, 4),
+        (536, 467, 207, 1899, '2021-05-25 07:10:50.000000', false, 1),
+        (537, 322, 830, 1962, '2021-08-17 02:02:09.000000', true, 4),
+        (538, 730, 978, 109, '2021-04-02 11:19:44.000000', true, 3),
+        (539, 77, 61, 123, '2021-02-10 11:47:25.000000', true, 2),
+        (540, 738, 165, 1529, '2021-06-05 12:13:25.000000', true, 2),
+        (541, 650, 592, 1049, '2021-04-12 00:59:22.000000', false, 5),
+        (542, 161, 564, 246, '2021-03-18 06:54:01.000000', true, 3),
+        (543, 391, 837, 1248, '2021-03-19 06:50:45.000000', true, 5),
+        (544, 851, 119, 1096, '2021-01-04 19:48:40.000000', true, 5),
+        (545, 602, 234, 1833, '2021-08-16 14:47:09.000000', true, 1),
+        (546, 229, 707, 1117, '2021-01-01 15:39:56.000000', true, 4),
+        (547, 984, 593, 260, '2021-03-18 04:43:13.000000', true, 1),
+        (548, 379, 168, 1334, '2021-03-16 19:33:17.000000', true, 2),
+        (549, 353, 944, 1183, '2021-02-05 05:23:16.000000', true, 3),
+        (550, 878, 323, 604, '2021-08-03 01:12:47.000000', false, 3),
+        (551, 319, 43, 1965, '2021-08-23 05:36:04.000000', true, 2),
+        (552, 463, 642, 844, '2021-09-17 00:38:54.000000', false, 5),
+        (553, 50, 354, 1801, '2021-02-09 11:01:55.000000', false, 5),
+        (554, 744, 330, 1060, '2021-07-07 13:19:00.000000', true, 5),
+        (555, 457, 329, 873, '2021-01-23 03:23:56.000000', true, 5),
+        (556, 447, 355, 1311, '2021-08-17 15:52:46.000000', false, 5),
+        (557, 472, 822, 1729, '2021-02-13 10:32:32.000000', false, 5),
+        (558, 991, 26, 568, '2021-08-22 09:09:53.000000', true, 3),
+        (559, 918, 426, 1633, '2021-06-08 15:26:48.000000', false, 3),
+        (560, 661, 311, 870, '2021-08-31 20:15:08.000000', true, 1),
+        (561, 630, 585, 1356, '2021-04-16 08:34:13.000000', true, 5),
+        (562, 50, 160, 300, '2021-10-01 12:51:52.000000', false, 5),
+        (563, 476, 497, 678, '2021-04-22 02:46:24.000000', false, 5),
+        (564, 380, 533, 1470, '2021-01-16 10:35:11.000000', false, 1),
+        (565, 606, 406, 782, '2021-02-02 22:49:15.000000', false, 4),
+        (566, 150, 693, 1670, '2021-01-07 05:20:51.000000', false, 2),
+        (567, 477, 239, 26, '2021-06-03 03:55:48.000000', false, 2),
+        (568, 227, 866, 686, '2021-05-27 01:35:59.000000', false, 1),
+        (569, 247, 588, 1357, '2021-02-10 02:44:49.000000', true, 5),
+        (570, 340, 606, 669, '2021-06-06 19:33:23.000000', false, 4),
+        (571, 885, 578, 1255, '2021-09-28 21:52:45.000000', false, 3),
+        (572, 772, 622, 395, '2021-08-20 04:31:50.000000', true, 4),
+        (573, 245, 456, 1123, '2021-07-27 06:05:50.000000', false, 3),
+        (574, 710, 971, 1053, '2021-08-19 03:51:40.000000', false, 4),
+        (575, 588, 417, 304, '2021-09-17 00:47:20.000000', false, 4),
+        (576, 289, 630, 724, '2021-09-03 18:30:45.000000', true, 3),
+        (577, 403, 680, 773, '2021-05-30 18:37:25.000000', true, 5),
+        (578, 625, 718, 933, '2021-03-12 06:37:26.000000', true, 3),
+        (579, 396, 255, 765, '2021-06-11 01:15:03.000000', false, 1),
+        (580, 485, 69, 435, '2021-03-15 18:31:52.000000', true, 3),
+        (581, 815, 159, 1825, '2021-08-22 13:15:32.000000', false, 4),
+        (582, 761, 62, 194, '2021-05-17 16:58:58.000000', false, 5),
+        (583, 558, 129, 276, '2021-08-03 03:07:18.000000', true, 1),
+        (584, 536, 782, 701, '2021-05-03 23:14:16.000000', false, 1),
+        (585, 584, 487, 1926, '2021-09-26 15:05:48.000000', true, 2),
+        (586, 661, 46, 870, '2021-03-03 02:18:42.000000', true, 4),
+        (587, 543, 75, 1765, '2021-03-19 16:20:06.000000', false, 2),
+        (588, 340, 586, 669, '2021-01-04 13:14:18.000000', false, 4),
+        (589, 998, 831, 170, '2021-09-04 06:46:57.000000', true, 4),
+        (590, 519, 220, 1717, '2021-01-10 22:07:53.000000', false, 1),
+        (591, 699, 736, 293, '2021-03-12 20:10:23.000000', false, 2),
+        (592, 210, 776, 262, '2021-03-31 07:33:23.000000', false, 2),
+        (593, 980, 228, 761, '2021-03-19 17:35:01.000000', false, 4),
+        (594, 414, 271, 1373, '2021-06-12 01:11:51.000000', true, 5),
+        (595, 119, 986, 1387, '2021-04-12 04:01:34.000000', false, 2),
+        (596, 320, 837, 780, '2021-06-28 13:47:41.000000', true, 2),
+        (597, 430, 539, 1350, '2021-06-03 07:20:45.000000', true, 4),
+        (598, 178, 239, 1519, '2021-06-19 10:19:46.000000', false, 5),
+        (599, 926, 135, 305, '2021-08-16 13:15:26.000000', true, 1),
+        (600, 126, 667, 299, '2021-04-24 21:45:08.000000', false, 3),
+        (601, 79, 443, 1732, '2021-03-06 22:30:20.000000', true, 5),
+        (602, 693, 158, 455, '2021-09-18 08:41:17.000000', true, 4),
+        (603, 331, 843, 1811, '2021-06-23 21:08:06.000000', false, 1),
+        (604, 751, 214, 942, '2021-02-23 17:13:27.000000', false, 4),
+        (605, 697, 74, 1143, '2021-04-06 05:44:00.000000', false, 1),
+        (606, 911, 940, 1062, '2021-05-07 09:04:01.000000', false, 4),
+        (607, 209, 566, 1216, '2021-06-27 02:10:59.000000', false, 5),
+        (608, 731, 721, 1199, '2021-09-05 23:58:24.000000', false, 4),
+        (609, 532, 57, 1884, '2021-03-24 15:00:22.000000', true, 5),
+        (610, 337, 201, 1343, '2021-02-02 20:12:43.000000', true, 4),
+        (611, 256, 96, 105, '2021-08-23 11:30:23.000000', false, 4),
+        (612, 17, 265, 1318, '2021-05-13 20:04:45.000000', true, 1),
+        (613, 218, 928, 1583, '2021-01-22 06:04:07.000000', false, 3),
+        (614, 7, 392, 1437, '2021-02-05 05:57:55.000000', true, 1),
+        (615, 91, 360, 1921, '2021-08-19 00:36:31.000000', true, 3),
+        (616, 513, 868, 666, '2021-09-16 10:54:17.000000', false, 2),
+        (617, 155, 816, 743, '2021-08-29 19:49:00.000000', false, 4),
+        (618, 543, 137, 1765, '2021-07-13 01:36:39.000000', true, 5),
+        (619, 502, 663, 1666, '2021-09-10 10:48:34.000000', true, 2),
+        (620, 663, 165, 1913, '2021-05-06 16:37:45.000000', true, 3),
+        (621, 543, 2, 1398, '2021-03-12 03:45:12.000000', false, 5),
+        (622, 194, 923, 1520, '2021-01-16 19:06:30.000000', true, 1),
+        (623, 697, 152, 1687, '2021-09-01 18:24:26.000000', false, 3),
+        (624, 723, 920, 1162, '2021-01-04 13:40:55.000000', false, 3),
+        (625, 603, 273, 326, '2021-04-23 14:26:42.000000', false, 4),
+        (626, 312, 916, 85, '2021-07-11 12:41:06.000000', true, 5),
+        (627, 957, 224, 1404, '2021-08-30 13:18:08.000000', false, 5),
+        (628, 443, 879, 1922, '2021-01-25 17:04:24.000000', false, 5),
+        (629, 40, 325, 1023, '2021-03-07 14:43:00.000000', false, 5),
+        (630, 877, 497, 1869, '2021-05-15 23:33:35.000000', true, 1),
+        (631, 859, 314, 1200, '2021-09-06 19:56:28.000000', true, 5),
+        (632, 759, 946, 1209, '2021-01-29 13:41:26.000000', true, 2),
+        (633, 459, 874, 157, '2021-06-09 21:19:41.000000', true, 4),
+        (634, 448, 893, 704, '2021-06-17 21:43:25.000000', false, 4),
+        (635, 451, 842, 920, '2021-08-28 22:03:28.000000', false, 2),
+        (636, 983, 449, 378, '2021-09-15 20:05:48.000000', true, 3),
+        (637, 620, 744, 1456, '2021-09-01 19:56:21.000000', false, 1),
+        (638, 795, 518, 393, '2021-03-25 07:37:11.000000', false, 3),
+        (639, 138, 485, 355, '2021-09-08 21:25:07.000000', false, 1),
+        (640, 374, 482, 1244, '2021-07-03 00:52:31.000000', true, 5),
+        (641, 877, 255, 1869, '2021-06-03 23:18:20.000000', false, 1),
+        (642, 918, 585, 1483, '2021-09-28 01:20:32.000000', true, 4),
+        (643, 510, 150, 1128, '2021-04-06 09:19:41.000000', false, 1),
+        (644, 450, 681, 1366, '2021-04-14 00:59:01.000000', true, 5),
+        (645, 3, 226, 1514, '2021-09-11 15:31:13.000000', false, 2),
+        (646, 578, 94, 440, '2021-04-07 03:34:37.000000', true, 3),
+        (647, 635, 860, 1016, '2021-04-13 06:20:19.000000', false, 1),
+        (648, 761, 385, 194, '2021-03-23 19:39:39.000000', true, 2),
+        (649, 508, 141, 69, '2021-09-11 10:38:25.000000', true, 3),
+        (650, 181, 520, 1242, '2021-08-05 20:23:26.000000', false, 2),
+        (651, 708, 760, 618, '2021-01-15 12:50:54.000000', false, 5),
+        (652, 787, 980, 1306, '2021-07-23 06:52:15.000000', true, 3),
+        (653, 671, 524, 1171, '2021-05-05 08:14:23.000000', true, 4),
+        (654, 715, 703, 679, '2021-05-12 13:56:54.000000', true, 5),
+        (655, 989, 729, 1715, '2021-04-03 04:38:36.000000', true, 4),
+        (656, 911, 704, 1062, '2021-09-06 00:49:28.000000', false, 1),
+        (657, 274, 38, 442, '2021-04-25 14:02:23.000000', true, 4),
+        (658, 443, 130, 1922, '2021-09-13 02:04:21.000000', false, 2),
+        (659, 351, 825, 629, '2021-02-03 22:27:32.000000', false, 5),
+        (660, 292, 900, 1227, '2021-03-15 17:11:17.000000', false, 4),
+        (661, 135, 904, 475, '2021-06-22 05:47:18.000000', true, 3),
+        (662, 781, 753, 1806, '2021-06-18 04:53:11.000000', true, 2),
+        (663, 630, 850, 1356, '2021-01-13 04:12:46.000000', false, 4),
+        (664, 657, 582, 236, '2021-08-21 19:21:01.000000', true, 4),
+        (665, 610, 648, 877, '2021-03-25 16:33:46.000000', false, 1),
+        (666, 395, 326, 215, '2021-09-14 04:26:35.000000', true, 3),
+        (667, 756, 751, 1902, '2021-03-06 10:23:25.000000', false, 5),
+        (668, 6, 73, 64, '2021-05-03 04:40:38.000000', true, 1),
+        (669, 83, 212, 286, '2021-07-06 12:13:21.000000', false, 1),
+        (670, 99, 997, 1571, '2021-01-19 08:23:58.000000', true, 2),
+        (671, 888, 233, 1246, '2021-05-22 15:18:29.000000', false, 5),
+        (672, 813, 749, 366, '2021-01-29 00:26:26.000000', false, 3),
+        (673, 929, 984, 687, '2021-08-22 13:29:13.000000', true, 2),
+        (674, 917, 212, 1007, '2021-06-21 06:08:58.000000', true, 1),
+        (675, 533, 671, 545, '2021-07-29 05:25:37.000000', true, 5),
+        (676, 101, 837, 550, '2021-07-12 08:11:44.000000', true, 3),
+        (677, 103, 398, 696, '2021-01-14 22:07:15.000000', true, 4),
+        (678, 772, 70, 922, '2021-09-11 06:47:20.000000', true, 1),
+        (679, 104, 577, 1186, '2021-03-08 02:29:29.000000', true, 1),
+        (680, 487, 497, 531, '2021-01-21 00:07:25.000000', true, 2),
+        (681, 73, 720, 681, '2021-03-20 09:16:54.000000', true, 1),
+        (682, 246, 675, 1850, '2021-03-21 08:03:10.000000', true, 1),
+        (683, 657, 863, 829, '2021-06-16 18:43:13.000000', true, 3),
+        (684, 291, 702, 322, '2021-02-10 20:54:51.000000', false, 4),
+        (685, 453, 19, 707, '2021-05-06 17:44:54.000000', true, 2),
+        (686, 57, 970, 1316, '2021-07-12 22:00:15.000000', false, 3),
+        (687, 344, 614, 637, '2021-06-20 18:33:21.000000', true, 1),
+        (688, 472, 112, 1729, '2021-04-25 15:49:20.000000', true, 5),
+        (689, 827, 610, 3, '2021-01-28 07:08:52.000000', false, 3),
+        (690, 311, 293, 320, '2021-03-26 09:09:46.000000', false, 2),
+        (691, 896, 250, 1961, '2021-08-27 20:10:20.000000', false, 1),
+        (692, 594, 154, 1619, '2021-07-03 19:04:40.000000', false, 1),
+        (693, 77, 819, 857, '2021-06-10 08:40:22.000000', false, 2),
+        (694, 292, 666, 1227, '2021-02-12 03:38:40.000000', true, 5),
+        (695, 30, 486, 1081, '2021-02-07 08:37:59.000000', true, 4),
+        (696, 693, 508, 242, '2021-07-18 06:10:59.000000', true, 3),
+        (697, 429, 705, 1929, '2021-02-21 01:33:56.000000', true, 3),
+        (698, 813, 801, 366, '2021-06-15 06:46:11.000000', false, 5),
+        (699, 359, 827, 285, '2021-04-12 19:43:32.000000', false, 1),
+        (700, 79, 374, 1732, '2021-03-10 01:41:49.000000', true, 1),
+        (701, 31, 645, 1495, '2021-02-06 15:27:37.000000', true, 4),
+        (702, 595, 16, 833, '2021-05-09 03:49:22.000000', true, 3),
+        (703, 480, 564, 1840, '2021-08-31 14:13:44.000000', true, 1),
+        (704, 117, 192, 593, '2021-05-14 00:50:55.000000', true, 4),
+        (705, 80, 186, 1279, '2021-02-13 04:47:11.000000', false, 3),
+        (706, 421, 584, 155, '2021-06-29 09:59:54.000000', true, 2),
+        (707, 543, 20, 1765, '2021-07-06 20:19:08.000000', false, 1),
+        (708, 128, 335, 1389, '2021-01-16 21:29:38.000000', false, 5),
+        (709, 766, 678, 1258, '2021-05-05 05:00:15.000000', true, 5),
+        (710, 994, 843, 1506, '2021-04-21 16:13:17.000000', true, 4),
+        (711, 861, 57, 1555, '2021-05-14 07:57:19.000000', false, 2),
+        (712, 987, 801, 1774, '2021-08-02 14:12:27.000000', false, 4),
+        (713, 282, 408, 167, '2021-06-16 04:04:31.000000', false, 3),
+        (714, 281, 43, 528, '2021-09-21 14:04:06.000000', false, 5),
+        (715, 531, 203, 1160, '2021-04-18 14:09:48.000000', true, 5),
+        (716, 442, 109, 767, '2021-02-21 09:17:03.000000', false, 4),
+        (717, 614, 915, 1198, '2021-08-21 11:14:46.000000', false, 2),
+        (718, 258, 509, 590, '2021-08-02 04:52:59.000000', false, 4),
+        (719, 344, 849, 1089, '2021-06-28 18:42:56.000000', false, 3),
+        (720, 521, 275, 1767, '2021-05-18 14:41:32.000000', true, 5),
+        (721, 791, 751, 1250, '2021-06-08 14:23:11.000000', false, 5),
+        (722, 900, 335, 793, '2021-01-09 09:52:30.000000', false, 5),
+        (723, 4, 138, 1118, '2021-05-09 03:38:02.000000', false, 1),
+        (724, 99, 84, 1571, '2021-02-22 12:03:05.000000', true, 5),
+        (725, 939, 312, 1163, '2021-07-22 05:35:46.000000', true, 1),
+        (726, 858, 548, 330, '2021-04-26 04:27:37.000000', true, 2),
+        (727, 494, 607, 1784, '2021-08-09 01:23:33.000000', false, 4),
+        (728, 264, 292, 1394, '2021-04-04 09:56:43.000000', false, 3),
+        (729, 261, 656, 372, '2021-09-19 00:27:10.000000', false, 2),
+        (730, 379, 891, 1334, '2021-05-31 13:28:11.000000', false, 2),
+        (731, 233, 683, 1950, '2021-02-09 22:33:03.000000', false, 3),
+        (732, 233, 607, 1950, '2021-03-18 19:49:04.000000', false, 3),
+        (733, 691, 940, 385, '2021-05-22 21:18:09.000000', true, 5),
+        (734, 215, 364, 1987, '2021-07-24 16:59:21.000000', false, 4),
+        (735, 543, 904, 1398, '2021-07-13 11:43:15.000000', false, 3),
+        (736, 429, 116, 422, '2021-07-26 17:02:44.000000', true, 4),
+        (737, 479, 255, 737, '2021-06-21 20:23:40.000000', false, 1),
+        (738, 310, 524, 646, '2021-07-03 06:24:07.000000', false, 2),
+        (739, 19, 527, 683, '2021-03-17 10:16:22.000000', true, 4),
+        (740, 594, 404, 1012, '2021-08-29 12:08:20.000000', true, 1),
+        (741, 81, 340, 716, '2021-06-15 06:07:09.000000', false, 5),
+        (742, 933, 492, 602, '2021-01-14 10:25:34.000000', true, 2),
+        (743, 599, 437, 1945, '2021-05-12 08:03:19.000000', false, 3),
+        (744, 851, 504, 1096, '2021-06-11 09:11:37.000000', true, 2),
+        (745, 744, 398, 1060, '2021-05-06 14:17:34.000000', true, 5),
+        (746, 252, 851, 359, '2021-06-10 16:47:29.000000', false, 1),
+        (747, 809, 115, 1540, '2021-05-28 04:38:05.000000', true, 4),
+        (748, 490, 952, 1396, '2021-01-31 12:26:32.000000', true, 5),
+        (749, 176, 181, 132, '2021-04-12 21:15:23.000000', false, 5),
+        (750, 564, 461, 1608, '2021-07-11 02:29:40.000000', true, 5),
+        (751, 646, 936, 1893, '2021-01-10 16:42:38.000000', false, 3),
+        (752, 523, 949, 990, '2021-07-20 06:37:02.000000', true, 4),
+        (753, 161, 705, 246, '2021-01-13 04:41:50.000000', true, 5),
+        (754, 532, 139, 1434, '2021-01-19 00:33:41.000000', true, 5),
+        (755, 314, 620, 535, '2021-04-22 13:43:23.000000', false, 5),
+        (756, 509, 976, 783, '2021-05-05 22:20:02.000000', false, 2),
+        (757, 355, 138, 764, '2021-05-10 16:15:34.000000', false, 1),
+        (758, 242, 70, 1228, '2021-08-27 16:05:55.000000', false, 5),
+        (759, 942, 531, 1716, '2021-01-12 20:03:15.000000', false, 5),
+        (760, 720, 529, 108, '2021-06-18 02:17:34.000000', false, 3),
+        (761, 743, 91, 1759, '2021-01-25 13:12:14.000000', false, 2),
+        (762, 739, 270, 935, '2021-02-08 19:50:31.000000', true, 2),
+        (763, 517, 715, 1683, '2021-02-28 15:20:36.000000', true, 2),
+        (764, 179, 256, 1382, '2021-01-17 15:35:44.000000', true, 5),
+        (765, 579, 858, 577, '2021-08-23 08:49:36.000000', false, 2),
+        (766, 226, 218, 539, '2021-03-21 00:13:58.000000', true, 3),
+        (767, 859, 55, 1200, '2021-06-21 09:58:00.000000', true, 5),
+        (768, 348, 39, 652, '2021-06-03 03:40:15.000000', false, 4),
+        (769, 923, 986, 1985, '2021-01-14 20:08:32.000000', false, 5),
+        (770, 727, 869, 1110, '2021-07-10 02:30:45.000000', false, 5),
+        (771, 990, 852, 228, '2021-05-10 12:31:22.000000', false, 2),
+        (772, 200, 157, 753, '2021-07-03 04:26:02.000000', true, 3),
+        (773, 134, 587, 478, '2021-02-01 17:13:49.000000', false, 2),
+        (774, 279, 397, 1566, '2021-06-15 08:40:13.000000', false, 4),
+        (775, 925, 177, 970, '2021-04-13 16:39:44.000000', false, 4),
+        (776, 695, 92, 710, '2021-04-08 15:28:52.000000', false, 5),
+        (777, 90, 887, 1079, '2021-08-13 15:11:53.000000', false, 3),
+        (778, 182, 214, 199, '2021-04-14 22:44:08.000000', true, 1),
+        (779, 998, 360, 170, '2021-02-12 15:08:45.000000', false, 5),
+        (780, 658, 202, 143, '2021-08-03 21:47:55.000000', false, 3),
+        (781, 579, 356, 577, '2021-02-16 09:35:37.000000', true, 5),
+        (782, 390, 772, 671, '2021-06-08 15:28:37.000000', true, 3),
+        (783, 51, 282, 1881, '2021-04-22 23:49:42.000000', false, 5),
+        (784, 702, 374, 1439, '2021-06-18 01:34:11.000000', true, 3),
+        (785, 628, 725, 1914, '2021-07-10 09:58:18.000000', false, 2),
+        (786, 617, 753, 534, '2021-02-23 09:10:40.000000', true, 3),
+        (787, 446, 599, 313, '2021-01-09 06:51:46.000000', true, 3),
+        (788, 914, 530, 1867, '2021-08-27 21:12:56.000000', true, 3),
+        (789, 880, 361, 1828, '2021-07-07 23:43:01.000000', false, 5),
+        (790, 294, 719, 987, '2021-03-12 19:28:45.000000', false, 2),
+        (791, 247, 831, 1226, '2021-09-08 07:05:52.000000', false, 4),
+        (792, 514, 310, 997, '2021-05-05 03:21:51.000000', true, 5),
+        (793, 414, 794, 1373, '2021-04-19 21:51:53.000000', false, 2),
+        (794, 496, 355, 1353, '2021-08-17 03:44:49.000000', true, 5),
+        (795, 3, 665, 1287, '2021-09-05 18:24:33.000000', true, 3),
+        (796, 586, 880, 1509, '2021-09-17 04:31:54.000000', true, 2),
+        (797, 615, 799, 892, '2021-01-31 22:06:22.000000', false, 1),
+        (798, 534, 884, 1310, '2021-03-04 20:51:23.000000', false, 5),
+        (799, 173, 803, 79, '2021-09-07 00:16:25.000000', true, 5),
+        (800, 919, 943, 1298, '2021-03-25 20:58:44.000000', true, 5),
+        (801, 456, 554, 1322, '2021-07-29 07:04:58.000000', false, 4),
+        (802, 246, 940, 1106, '2021-09-29 08:10:37.000000', false, 3),
+        (803, 825, 450, 790, '2021-04-11 09:30:59.000000', true, 4),
+        (804, 731, 218, 376, '2021-01-05 08:11:20.000000', true, 1),
+        (805, 886, 31, 603, '2021-04-02 00:43:18.000000', false, 1),
+        (806, 825, 286, 1862, '2021-08-14 18:17:04.000000', true, 2),
+        (807, 430, 960, 660, '2021-01-01 21:48:09.000000', true, 5),
+        (808, 339, 287, 54, '2021-01-10 13:08:03.000000', false, 1),
+        (809, 904, 417, 127, '2021-07-09 00:03:55.000000', true, 3),
+        (810, 610, 622, 877, '2021-08-05 11:35:37.000000', false, 2),
+        (811, 200, 102, 1883, '2021-09-08 09:09:56.000000', false, 3),
+        (812, 707, 474, 318, '2021-05-11 01:41:16.000000', true, 4),
+        (813, 177, 109, 843, '2021-05-19 10:55:13.000000', true, 3),
+        (814, 726, 132, 35, '2021-01-23 08:17:39.000000', false, 3),
+        (815, 735, 491, 70, '2021-05-05 07:02:43.000000', false, 3),
+        (816, 23, 646, 797, '2021-01-11 17:23:07.000000', false, 2),
+        (817, 256, 730, 105, '2021-06-23 23:01:28.000000', false, 2),
+        (818, 328, 287, 688, '2021-01-10 11:03:24.000000', false, 5),
+        (819, 692, 312, 61, '2021-02-05 05:12:43.000000', true, 5),
+        (820, 535, 257, 893, '2021-08-25 12:09:14.000000', true, 2),
+        (821, 919, 297, 1298, '2021-03-15 00:26:36.000000', false, 4),
+        (822, 273, 985, 188, '2021-03-16 04:40:02.000000', true, 5),
+        (823, 349, 213, 614, '2021-04-03 23:21:26.000000', false, 1),
+        (824, 100, 586, 1642, '2021-03-18 22:34:13.000000', true, 3),
+        (825, 119, 820, 838, '2021-03-13 15:26:08.000000', true, 1),
+        (826, 903, 325, 904, '2021-05-01 07:41:51.000000', true, 2),
+        (827, 146, 29, 499, '2021-01-09 19:52:11.000000', false, 2),
+        (828, 196, 226, 332, '2021-08-10 17:12:09.000000', false, 5),
+        (829, 929, 147, 1516, '2021-08-29 19:45:50.000000', true, 4),
+        (830, 428, 157, 511, '2021-05-31 01:35:06.000000', false, 2),
+        (831, 201, 908, 1808, '2021-04-10 19:46:14.000000', true, 3),
+        (832, 708, 476, 618, '2021-02-15 13:58:37.000000', true, 5),
+        (833, 664, 995, 433, '2021-09-12 10:23:18.000000', false, 4),
+        (834, 97, 12, 674, '2021-01-01 19:46:22.000000', false, 3),
+        (835, 209, 998, 1216, '2021-02-26 17:58:58.000000', true, 3),
+        (836, 298, 957, 1169, '2021-02-13 21:05:00.000000', true, 2),
+        (837, 938, 729, 670, '2021-08-19 01:56:36.000000', false, 4),
+        (838, 180, 242, 120, '2021-09-08 04:15:09.000000', true, 1),
+        (839, 125, 641, 116, '2021-07-12 07:44:47.000000', true, 3),
+        (840, 158, 501, 1393, '2021-05-24 06:50:17.000000', false, 5),
+        (841, 49, 354, 1134, '2021-06-05 19:38:30.000000', true, 4),
+        (842, 422, 1, 1977, '2021-09-11 00:24:50.000000', false, 4),
+        (843, 848, 210, 1588, '2021-03-05 06:59:40.000000', true, 4),
+        (844, 140, 428, 1213, '2021-01-04 10:43:56.000000', false, 3),
+        (845, 597, 178, 198, '2021-04-01 11:44:13.000000', false, 4),
+        (846, 568, 269, 1408, '2021-09-23 00:05:54.000000', false, 3),
+        (847, 743, 116, 114, '2021-02-22 05:38:43.000000', true, 3),
+        (848, 168, 692, 1545, '2021-08-13 12:14:59.000000', true, 3),
+        (849, 263, 751, 45, '2021-04-08 09:20:46.000000', false, 2),
+        (850, 354, 442, 1831, '2021-04-10 21:41:04.000000', true, 1),
+        (851, 354, 488, 339, '2021-04-02 17:38:49.000000', false, 3),
+        (852, 161, 484, 175, '2021-07-13 16:29:37.000000', false, 5),
+        (853, 223, 747, 264, '2021-07-18 20:45:10.000000', true, 5),
+        (854, 958, 561, 1826, '2021-06-05 06:56:05.000000', false, 4),
+        (855, 218, 949, 699, '2021-05-17 04:22:00.000000', false, 4),
+        (856, 404, 135, 449, '2021-01-14 08:59:08.000000', true, 3),
+        (857, 565, 651, 1142, '2021-08-06 19:29:04.000000', false, 3),
+        (858, 928, 337, 778, '2021-08-25 20:04:03.000000', true, 1),
+        (859, 325, 10, 651, '2021-03-21 08:41:01.000000', false, 4),
+        (860, 369, 975, 1675, '2021-08-04 21:14:28.000000', true, 5),
+        (861, 737, 385, 1281, '2021-03-23 15:46:03.000000', true, 2),
+        (862, 759, 926, 1209, '2021-04-04 14:18:32.000000', true, 5),
+        (863, 570, 776, 424, '2021-09-16 09:41:04.000000', true, 3),
+        (864, 519, 817, 1717, '2021-05-17 05:12:39.000000', false, 1),
+        (865, 435, 104, 1175, '2021-07-17 03:11:52.000000', false, 2),
+        (866, 98, 627, 1115, '2021-03-09 10:34:06.000000', false, 1),
+        (867, 790, 589, 1686, '2021-08-21 16:53:53.000000', true, 4),
+        (868, 895, 473, 1018, '2021-09-01 06:22:08.000000', false, 5),
+        (869, 729, 166, 90, '2021-04-18 15:10:36.000000', false, 5),
+        (870, 671, 843, 1168, '2021-03-02 20:01:01.000000', true, 1),
+        (871, 816, 729, 310, '2021-06-22 01:15:11.000000', false, 1),
+        (872, 317, 964, 1860, '2021-08-10 00:06:09.000000', true, 2),
+        (873, 196, 128, 332, '2021-03-25 04:28:39.000000', true, 3),
+        (874, 537, 565, 1265, '2021-01-09 22:49:30.000000', false, 5),
+        (875, 325, 14, 651, '2021-07-09 08:14:27.000000', true, 2),
+        (876, 716, 332, 1864, '2021-07-17 00:03:57.000000', false, 2),
+        (877, 120, 538, 1564, '2021-05-18 17:02:29.000000', true, 4),
+        (878, 212, 702, 1308, '2021-03-06 03:31:56.000000', false, 2),
+        (879, 110, 549, 1878, '2021-04-08 16:47:42.000000', true, 4),
+        (880, 667, 537, 1561, '2021-09-22 03:39:43.000000', false, 5),
+        (881, 215, 182, 1987, '2021-06-03 08:04:39.000000', false, 5),
+        (882, 92, 21, 1375, '2021-04-11 01:35:01.000000', true, 4),
+        (883, 435, 429, 1175, '2021-05-12 05:16:32.000000', true, 5),
+        (884, 559, 126, 811, '2021-06-12 02:02:28.000000', false, 5),
+        (885, 373, 569, 1908, '2021-01-23 19:34:32.000000', false, 4),
+        (886, 318, 815, 1301, '2021-08-16 03:36:33.000000', true, 2),
+        (887, 85, 55, 612, '2021-01-15 05:35:26.000000', true, 3),
+        (888, 761, 68, 194, '2021-09-02 12:46:05.000000', false, 5),
+        (889, 67, 174, 1288, '2021-06-06 04:51:34.000000', false, 2),
+        (890, 420, 494, 1617, '2021-08-06 15:44:43.000000', false, 4),
+        (891, 79, 153, 1732, '2021-04-13 03:12:25.000000', false, 4),
+        (892, 853, 903, 1819, '2021-07-11 14:52:25.000000', false, 3),
+        (893, 944, 829, 1325, '2021-04-30 23:37:38.000000', true, 4),
+        (894, 370, 356, 220, '2021-09-04 15:05:15.000000', false, 1),
+        (895, 997, 960, 895, '2021-03-02 02:17:37.000000', true, 2),
+        (896, 753, 870, 1727, '2021-07-24 06:17:05.000000', false, 4),
+        (897, 758, 89, 217, '2021-07-11 08:40:57.000000', true, 3),
+        (898, 885, 706, 1255, '2021-07-05 10:03:27.000000', true, 3),
+        (899, 711, 726, 1857, '2021-04-27 01:06:18.000000', false, 1),
+        (900, 144, 737, 1338, '2021-09-30 05:12:12.000000', false, 3),
+        (901, 754, 238, 581, '2021-10-01 00:26:26.000000', false, 4),
+        (902, 82, 996, 954, '2021-09-28 00:19:52.000000', true, 2),
+        (903, 312, 934, 469, '2021-06-17 18:57:48.000000', false, 4),
+        (904, 537, 631, 1265, '2021-03-09 21:00:41.000000', false, 3),
+        (905, 612, 965, 259, '2021-07-26 04:57:58.000000', false, 3),
+        (906, 962, 949, 1932, '2021-04-26 19:12:27.000000', true, 3),
+        (907, 93, 733, 662, '2021-04-17 04:06:01.000000', true, 4),
+        (908, 450, 610, 536, '2021-02-22 13:39:34.000000', false, 4),
+        (909, 371, 148, 1361, '2021-06-07 19:55:02.000000', true, 3),
+        (910, 369, 30, 1675, '2021-07-07 08:05:31.000000', true, 2),
+        (911, 578, 309, 440, '2021-06-22 16:50:13.000000', false, 3),
+        (912, 585, 423, 1618, '2021-09-28 20:03:03.000000', false, 4),
+        (913, 926, 816, 305, '2021-05-16 22:14:18.000000', false, 2),
+        (914, 504, 899, 926, '2021-03-04 00:21:24.000000', false, 2),
+        (915, 131, 865, 1392, '2021-02-19 05:43:21.000000', false, 3),
+        (916, 436, 733, 341, '2021-05-18 21:27:23.000000', true, 1),
+        (917, 844, 774, 83, '2021-04-07 16:19:18.000000', true, 5),
+        (918, 4, 13, 1118, '2021-07-09 11:13:00.000000', true, 1),
+        (919, 1, 141, 1059, '2021-05-28 22:20:44.000000', true, 3),
+        (920, 70, 568, 1949, '2021-09-27 17:02:33.000000', false, 5),
+        (921, 498, 79, 1317, '2021-08-08 02:45:55.000000', false, 3),
+        (922, 69, 334, 1463, '2021-03-12 14:05:36.000000', false, 5),
+        (923, 140, 617, 515, '2021-05-07 19:54:44.000000', true, 2),
+        (924, 60, 103, 1800, '2021-04-30 11:07:04.000000', false, 5),
+        (925, 60, 56, 410, '2021-03-31 23:28:35.000000', false, 1),
+        (926, 350, 385, 563, '2021-08-16 18:00:54.000000', true, 4),
+        (927, 344, 835, 1089, '2021-02-19 07:40:30.000000', false, 2),
+        (928, 960, 475, 927, '2021-05-06 04:07:02.000000', false, 4),
+        (929, 465, 649, 1576, '2021-02-02 11:57:34.000000', false, 2),
+        (930, 237, 9, 1424, '2021-06-15 23:49:46.000000', false, 1),
+        (931, 737, 631, 1281, '2021-01-25 23:59:36.000000', true, 1),
+        (932, 874, 862, 56, '2021-09-19 04:09:57.000000', true, 5),
+        (933, 780, 725, 195, '2021-06-07 16:39:08.000000', true, 5),
+        (934, 447, 814, 1000, '2021-02-04 04:36:25.000000', false, 4),
+        (935, 79, 633, 1732, '2021-03-26 17:09:05.000000', true, 3),
+        (936, 630, 393, 1356, '2021-01-03 19:06:50.000000', true, 4),
+        (937, 892, 425, 1582, '2021-05-30 15:34:04.000000', false, 4),
+        (938, 144, 507, 1338, '2021-05-09 18:13:10.000000', true, 5),
+        (939, 478, 268, 453, '2021-01-27 11:53:02.000000', true, 3),
+        (940, 687, 782, 1900, '2021-05-12 04:27:16.000000', true, 1),
+        (941, 725, 242, 1548, '2021-03-20 01:03:10.000000', true, 2),
+        (942, 254, 445, 752, '2021-03-25 05:09:01.000000', false, 2),
+        (943, 207, 656, 1450, '2021-03-05 15:09:53.000000', false, 2),
+        (944, 391, 464, 1100, '2021-05-11 03:06:27.000000', true, 5),
+        (945, 740, 114, 244, '2021-08-17 11:00:32.000000', false, 3),
+        (946, 414, 782, 190, '2021-04-30 17:03:27.000000', true, 4),
+        (947, 685, 345, 357, '2021-02-09 02:04:31.000000', true, 4),
+        (948, 563, 234, 796, '2021-08-02 22:20:09.000000', false, 5),
+        (949, 691, 419, 385, '2021-09-14 15:18:48.000000', true, 5),
+        (950, 178, 313, 1519, '2021-04-06 05:33:12.000000', true, 2),
+        (951, 725, 65, 1548, '2021-06-06 04:59:35.000000', true, 1),
+        (952, 347, 117, 889, '2021-02-09 11:09:52.000000', true, 4),
+        (953, 373, 195, 1365, '2021-06-06 14:07:56.000000', false, 2),
+        (954, 483, 983, 1930, '2021-04-05 05:29:09.000000', false, 3),
+        (955, 109, 175, 734, '2021-08-29 16:11:23.000000', true, 4),
+        (956, 790, 763, 1686, '2021-08-28 08:43:40.000000', false, 3),
+        (957, 643, 412, 639, '2021-05-24 23:22:06.000000', true, 1),
+        (958, 550, 512, 1197, '2021-07-06 16:38:53.000000', true, 5),
+        (959, 138, 393, 1517, '2021-07-18 07:07:22.000000', false, 3),
+        (960, 851, 491, 677, '2021-09-11 13:28:45.000000', false, 4),
+        (961, 431, 755, 1939, '2021-09-03 12:05:34.000000', true, 2),
+        (962, 129, 651, 1064, '2021-01-30 03:06:45.000000', true, 1),
+        (963, 150, 32, 1498, '2021-06-04 07:48:41.000000', false, 3),
+        (964, 895, 84, 1116, '2021-02-18 15:04:56.000000', true, 2),
+        (965, 852, 515, 1425, '2021-01-05 19:04:46.000000', true, 3),
+        (966, 796, 388, 153, '2021-01-15 06:22:20.000000', true, 3),
+        (967, 88, 216, 71, '2021-09-18 04:33:53.000000', true, 5),
+        (968, 837, 521, 1584, '2021-01-17 22:11:38.000000', true, 2),
+        (969, 264, 760, 750, '2021-08-24 00:47:26.000000', false, 3),
+        (970, 100, 626, 1642, '2021-03-14 00:06:14.000000', true, 3),
+        (971, 486, 395, 921, '2021-05-16 08:33:10.000000', true, 1),
+        (972, 310, 684, 1680, '2021-08-08 05:44:33.000000', true, 2),
+        (973, 239, 546, 247, '2021-03-08 12:12:10.000000', true, 3),
+        (974, 683, 960, 418, '2021-07-02 22:41:29.000000', true, 5),
+        (975, 200, 373, 421, '2021-04-26 20:12:10.000000', false, 2),
+        (976, 89, 621, 1697, '2021-02-05 14:42:58.000000', false, 4),
+        (977, 133, 952, 1422, '2021-01-03 15:20:03.000000', true, 5),
+        (978, 183, 161, 430, '2021-08-27 23:33:56.000000', false, 2),
+        (979, 73, 270, 681, '2021-06-30 20:46:35.000000', true, 1),
+        (980, 856, 861, 1544, '2021-06-23 08:58:41.000000', false, 1),
+        (981, 57, 988, 1316, '2021-03-05 09:59:33.000000', true, 5),
+        (982, 213, 734, 1635, '2021-02-16 17:53:46.000000', false, 4),
+        (983, 291, 189, 322, '2021-04-10 23:25:54.000000', false, 3),
+        (984, 444, 274, 807, '2021-05-12 13:47:07.000000', false, 5),
+        (985, 177, 412, 1856, '2021-04-25 02:03:17.000000', false, 1),
+        (986, 183, 987, 430, '2021-08-29 17:27:09.000000', true, 3),
+        (987, 650, 144, 1049, '2021-02-21 02:29:54.000000', false, 2),
+        (988, 888, 133, 1246, '2021-02-12 22:35:25.000000', true, 2),
+        (989, 782, 570, 448, '2021-01-28 05:49:09.000000', true, 5),
+        (990, 246, 74, 1106, '2021-02-24 02:31:08.000000', false, 1),
+        (991, 951, 905, 757, '2021-02-04 02:01:08.000000', false, 5),
+        (992, 397, 603, 381, '2021-04-19 01:28:38.000000', false, 4),
+        (993, 926, 428, 305, '2021-08-28 05:10:53.000000', false, 5),
+        (994, 616, 559, 1676, '2021-08-07 03:07:58.000000', true, 1),
+        (995, 657, 730, 829, '2021-06-11 00:21:13.000000', true, 5),
+        (996, 951, 928, 757, '2021-02-08 08:19:16.000000', false, 4),
+        (997, 620, 230, 849, '2021-09-25 21:20:16.000000', true, 4),
+        (998, 478, 494, 453, '2021-02-15 07:15:54.000000', true, 2),
+        (999, 601, 228, 1761, '2021-07-14 21:03:06.000000', true, 3),
+        (1000, 856, 654, 1984, '2021-03-26 14:17:23.000000', false, 5);

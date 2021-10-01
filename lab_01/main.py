@@ -57,12 +57,23 @@ try:
     print(connection.get_dsn_parameters(), "\n")
     # Выполнение SQL-запроса
 
+    # for i in range(1000):
+    #     name = fake.word() + fake.word()
+    #     reg_date = fake.date_time_this_year()
+    #     office_address = fake.address()
+    #     legal_form = randint(1, 3)
+    #     cursor.execute(
+    #         "INSERT INTO organization(name, reg_date, office_address, legal_form_id) VALUES('{0}', '{1}', '{2}', {3});".
+    #             format(name, reg_date, office_address, legal_form))
+    #     connection.commit()
+
     for i in range(1000):
         name = fake.name()
         names = name.split(' ')
         firstName = names[0]
         secondName = names[1]
-        cursor.execute("INSERT INTO buyers(first_name, second_name, sex, country, age) VALUES('{0}', '{1}', '{2}', '{3}', {4});".format(firstName, secondName, sex_types[randint(0, 1)], country_types[randint(0, 3)], randint(1, 5)))
+        organization_id = randint(1, 999)
+        cursor.execute("INSERT INTO buyers(first_name, second_name, sex, country, rating, age) VALUES('{0}', '{1}', '{2}', '{3}', {4}, {5});".format(firstName, secondName, sex_types[randint(0, 1)], country_types[randint(0, 3)], randint(1, 5),  randint(18, 99)))
         connection.commit()
 
     for i in range(1000):
@@ -70,10 +81,11 @@ try:
         names = name.split(' ')
         firstName = names[0]
         secondName = names[1]
-        cursor.execute("INSERT INTO sellers(first_name, second_name, sex, rating, country) VALUES('{0}', '{1}', '{2}', '{3}', '{4}');".format(firstName, secondName, sex_types[randint(0, 1)], str(randint(1, 5)), country_types[randint(0, 3)]))
+        organization_id = randint(1, 999)
+        cursor.execute("INSERT INTO sellers(first_name, second_name, sex, rating, country, organization_id) VALUES('{0}', '{1}', '{2}', {3}, '{4}', {5});".format(firstName, secondName, sex_types[randint(0, 1)], randint(1, 5), country_types[randint(0, 3)], organization_id))
         connection.commit()
 
-    for i in range(1000):
+    for i in range(2000):
         word1 = random_words[randint(0, 34)]
         word2 = random_words[randint(0, 34)]
         typeWord = type_words[randint(0, 17)]
@@ -82,20 +94,35 @@ try:
         names = name.split(' ')
         firstName = names[0]
         secondName = names[1]
-        print(resultName)
-        cursor.execute("INSERT INTO items(name, weight, price, color, guarantee_years) VALUES('{0}', '{1}', '{2}', '{3}', '{4}');".format(resultName, randint(1, 100), randint(100, 100000), color_type[randint(0, 5)], randint(1, 10)))
+        owner_id = randint(1, 999)
+        cursor.execute("INSERT INTO items(name, weight, price, color, guarantee_years, owner_id) VALUES('{0}', '{1}', '{2}', '{3}', '{4}', {5});".format(resultName, randint(1, 100), randint(100, 100000), color_type[randint(0, 5)], randint(1, 10), owner_id))
+        connection.commit()
+    # print(fake.date_time_this_year())
+    for i in range(1000):
+
+        isFind = 0
+        seller_id = randint(1, 999)
+        item_id = 0
+        while isFind == 0:
+            seller_id = randint(1, 999)
+            cursor.execute('SELECT id FROM items WHERE owner_id = {0};'.format(seller_id))
+            items = cursor.fetchall()
+            if len(items) != 0:
+                item_id_ind = randint(0, len(items) - 1)
+                item_id = items[item_id_ind][0]
+                isFind = 1
+        buyer_id = randint(1, 999)
+        cursor.execute(
+            "INSERT INTO deals(seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES({0}, {1}, {2}, '{3}', {4}, {5});".format(
+                seller_id, buyer_id, item_id, fake.date_time_this_year(), bool(getrandbits(1)), randint(1, 5)))
         connection.commit()
 
-    for i in range(1000):
-        name = fake.name()
-        names = name.split(' ')
-        firstName = names[0]
-        secondName = names[1]
-        print(fake.date_time_this_century())
-        cursor.execute(
-            "INSERT INTO deals(seller_id, buyer_id, sold_item_id, date, has_delivery, set_buyer_rating) VALUES({0}, {1}, {2}, '{3}', {4}, '{5}');".format(
-                randint(1, 999), randint(1, 999), randint(1, 999), fake.date_time_this_century(), bool(getrandbits(1)), str(randint(1, 5))))
-        connection.commit()
+
+    cursor.execute('SELECT * FROM buyers;')
+    record = cursor.fetchall()
+    print(record[0][0])
+
+
 
 except (Exception, Error) as error:
     print("Ошибка при работе с PostgreSQL", error)
