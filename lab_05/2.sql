@@ -6,7 +6,7 @@ DROP TABLE IF EXISTS LegalFormJSON;
 DROP TABLE IF EXISTS tmp;
 
 create table if not exists LegalFormJSON(
-	id INT NULL,
+	id SERIAL PRIMARY KEY NOT NULL,
     name TEXT NOT NULL,
     commission REAL NOT NULL
 );
@@ -14,7 +14,7 @@ create table if not exists LegalFormJSON(
 CREATE TABLE tmp (
     data json
 );
-\copy tmp from '/legal_form.json'
+\copy tmp from '/legal_form.json';
 
 INSERT INTO LegalFormJSON(id, name, commission)
 select
