@@ -1,0 +1,8 @@
+Запуск скрипта
+docker exec -u root -it postgres bash
+psql -u postgres
+\c postgres
+\i file
+
+Добавление файла в контейнер
+sudo docker cp /home/denis/Reps/bmstu_db/lab_05/copy.sql postgres-0:/copy.sql
